@@ -21,7 +21,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "[sb@stphnbkr.com/home]"
+    title = "Stephen Baker"
     subtitle = "A Networking blog"
     keywords = ""
     copyright = "Lorem Ipsum"
@@ -36,7 +36,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "[sb@stphnbkr.com/home/]"
       logoHomeLink = "/"
     # or
     #
