@@ -21,8 +21,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "[sb@stphnbkr.com/home]"
+    subtitle = "A Networking blog"
     keywords = ""
     copyright = "Lorem Ipsum"
     menuMore = "Show more"
