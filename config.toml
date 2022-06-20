@@ -36,7 +36,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "[sb@stphnbkr.com/home/]"
+      logoText = "[sb@stphnbkr.com/home]"
       logoHomeLink = "/"
     # or
     #
