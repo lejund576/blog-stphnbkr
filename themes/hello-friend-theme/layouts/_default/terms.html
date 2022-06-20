@@ -1,0 +1,220 @@
+{{ define "main" }}
+  <div class="post">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-meta">
+    </div>
+
+    {{ if .Content }}
+      <div class="post-content {{ if .Params.framed -}}framed{{- end -}}">
+        {{ .Content }}
+      </div>
+    {{ end }}
+  </div>
+
+  <form id="search" class="search" role="search">
+    <label for="search-input" class="search-label">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 512 512" class="icon search-icon"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+    </label>
+    <input type="search" id="search-input" class="search-input" placeholder="Type here to search..." />
+  </form>
+
+  <div class="posts posts-results">
+    <ul class="posts-list results">
+    </ul>
+  </div>
+
+  <template id="search-result" hidden>
+    <li class="posts-item">
+      <a class="summary-title-link"></a>
+    </li>
+  </template>
+
+  <div class="terms">
+    <ul class="terms__list">
+      {{ $type := .Type }}
+      {{ range $key, $value := .Data.Terms.Alphabetical }}
+        {{ $name := .Name }}
+        {{ $count := .Count }}
+        {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+          <li class="terms__term">
+            <span class="term-tag-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tag" viewBox="0 0 16 16">
+                <path d="M6 4.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm-1 0a.5.5 0 1 0-1 0 .5.5 0 0 0 1 0z"/>
+                <path d="M2 1h4.586a1 1 0 0 1 .707.293l7 7a1 1 0 0 1 0 1.414l-4.586 4.586a1 1 0 0 1-1.414 0l-7-7A1 1 0 0 1 1 6.586V2a1 1 0 0 1 1-1zm0 5.586 7 7L13.586 9l-7-7H2v4.586z"/>
+              </svg>
+            </span>
+            <a href="{{ .Permalink }}">
+              {{ .Name }} 
+              <span class="terms__term-count">{{ $count }}</span>
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+
+  <script src="/assets/lunr.js"></script>
+  <script>
+    window.addEventListener("DOMContentLoaded", function(event)
+    {
+      var index = null;
+      var lookup = null;
+      var queuedTerm = null;
+
+      var form = document.getElementById("search");
+      var input = document.getElementById("search-input");
+
+      form.addEventListener("submit", function(event)
+      {
+        event.preventDefault();
+      });
+
+      input.addEventListener("input", function(event)
+      {
+        event.preventDefault();
+
+        var term = input.value.trim();
+        if (!term)
+          return;
+
+        startSearch(term);
+      }, false);
+
+      function startSearch(term)
+      {
+        // Start icon animation.
+        form.setAttribute("data-running", "true");
+
+        if (index)
+        {
+          // Index already present, search directly.
+          search(term);
+        }
+        else if (queuedTerm)
+        {
+          // Index is being loaded, replace the term we want to search for.
+          queuedTerm = term;
+        }
+        else
+        {
+          // Start loading index, perform the search when done.
+          queuedTerm = term;
+          initIndex();
+        }
+      }
+
+      function searchDone()
+      {
+        // Stop icon animation.
+        form.removeAttribute("data-running");
+
+        queuedTerm = null;
+      }
+
+      function initIndex()
+      {
+        var request = new XMLHttpRequest();
+        request.open("GET", "/search.json");
+        request.responseType = "json";
+        request.addEventListener("load", function(event)
+        {
+          lookup = {};
+          index = lunr(function()
+          {
+            // Uncomment the following line and replace de by the right language
+            // code to use a lunr language pack.
+
+            // this.use(lunr.de);
+
+            this.ref("uri");
+
+            // If you added more searchable fields to the search index, list them here.
+            this.field("title");
+            this.field("content");
+            this.field("description");
+            this.field("categories");
+
+            for (var doc of request.response)
+            {
+              this.add(doc);
+              lookup[doc.uri] = doc;
+            }
+          });
+
+          // Search index is ready, perform the search now
+          search(queuedTerm);
+        }, false);
+        request.addEventListener("error", searchDone, false);
+        request.send(null);
+      }
+
+      function search(term)
+      {
+        var results = index.search(term);
+
+        // The element where search results should be displayed, adjust as needed.
+        var target = document.querySelector(".results");
+
+        while (target.firstChild)
+          target.removeChild(target.firstChild);
+
+        var title = document.createElement("h1");
+        title.id = "search-results";
+        title.className = "list-title";
+
+        //if (results.length == 0)
+        //  title.textContent = `No results found for “${term}”`;
+        //else if (results.length == 1)
+        //  title.textContent = `Found one result for “${term}”`;
+        //else
+        //  title.textContent = `Found ${results.length} results for “${term}”`;
+        target.appendChild(title);
+        document.title = title.textContent;
+
+        var template = document.getElementById("search-result");
+        for (var result of results)
+        {
+          var doc = lookup[result.ref];
+
+          // Fill out search result template, adjust as needed.
+          var element = template.content.cloneNode(true);
+          element.querySelector(".summary-title-link").href = doc.uri;
+          element.querySelector(".summary-title-link").textContent = doc.title;
+          target.appendChild(element);
+        }
+        //title.scrollIntoView(true);
+
+        searchDone();
+      }
+
+      // This matches Hugo's own summary logic:
+      // https://github.com/gohugoio/hugo/blob/b5f39d23b8/helpers/content.go#L543
+      function truncate(text, minWords)
+      {
+        var match;
+        var result = "";
+        var wordCount = 0;
+        var regexp = /(\S+)(\s*)/g;
+        while (match = regexp.exec(text))
+        {
+          wordCount++;
+          if (wordCount <= minWords)
+            result += match[0];
+          else
+          {
+            var char1 = match[1][match[1].length - 1];
+            var char2 = match[2][0];
+            if (/[.?!"]/.test(char1) || char2 == "\n")
+            {
+              result += match[1];
+              break;
+            }
+            else
+              result += match[0];
+          }
+        }
+        return result;
+      }
+    }, false);
+  </script>
+{{ end }}

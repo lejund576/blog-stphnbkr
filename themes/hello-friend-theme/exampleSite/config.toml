@@ -1,30 +1,24 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "hello-friend-theme"
+theme = "hugo-theme-hello-friend"
 paginate = 5
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "blog"
+  contentTypeName = "post"
   # "light" or "dark"
   defaultTheme = "dark"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 2
   # Enable to show reading time in minutes for posts
-  showReadingTime = true
-  # Enable to show table of contents for posts
-  Toc = true
-  # Contact form action
-  contactFormAction = ""
-  # Uses Netlify to handle contact form?
-  contactFormNetlify = true
+  showReadingTime = false
 
 [languages]
   [languages.en]
     title = "Hello Friend"
     subtitle = "A simple theme for Hugo"
     keywords = ""
-    copyright = "Lorem Ipsum"
+    copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
@@ -45,15 +39,10 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "tags"
-        name = "Tags"
-        url = "/tags"
-
-
-[outputFormats]
-  [outputFormats.searchIndex]
-    baseName = "search"
-    mediaType = "application/json"
-
-[outputs]
-  home = [ "HTML", "RSS", "SearchIndex" ]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"

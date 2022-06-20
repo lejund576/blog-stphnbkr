@@ -1,0 +1,370 @@
+html {
+  font-size: 14px;
+}
+body {
+  font-size: 16px;
+}
+body.light-theme, :root {
+  /* light theme color */
+  --primary: #fe5186;
+}
+
+body.dark-theme {
+  /* dark theme colors */
+  --primary: #fe5186;
+}
+
+.logo .logo__mark,
+.logo .logo__text,
+.logo .logo__cursor {
+  font-size: 20px;
+}
+
+.posts {
+  width: 100%;
+  max-width: 800px;
+  text-align: left;
+}
+
+.posts-list {
+  list-style: none;
+  margin: 32px 0;
+}
+
+.posts-item {
+  display: flex;
+  margin: 8px 0;
+}
+
+.posts-item-date {
+  flex-shrink: 0;
+  width: 7rem;
+  margin-right: 2rem;
+}
+
+.post {
+  padding-left: 0;
+  padding-right: 0;
+  border-bottom: none !important;
+}
+
+.post-meta,
+.post-tags {
+  display: flex;
+}
+
+.post-cover {
+  margin: 0;
+  max-width: 100%;
+}
+
+.post-date,
+.post-author,
+.post-read-time,
+.post-tag {
+  display: flex;
+  margin-right: 16px;
+}
+
+.post-date-icon,
+.post-author-icon,
+.post-read-time-icon,
+.post-tag-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 8px;
+}
+
+.table-of-contents input[type='checkbox'] {
+  display: none; 
+} 
+
+.wrap-collabsible h2 {
+  display: inline;
+} 
+
+.lbl-toggle { 
+  display: block;
+  cursor: pointer;
+}
+.lbl-toggle:hover { 
+  color: #FFF; 
+} 
+.lbl-toggle::before {
+  content: '';
+  display: inline-block; 
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  margin-bottom: 4px;
+  transform: translateY(-2px);
+  transition: transform .2s ease-out;
+}
+.toggle:checked+.lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px); 
+}
+.collapsible-content {
+  max-height: 0px; 
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+.toggle:checked + .lbl-toggle + .collapsible-content { 
+  max-height: 50vh;
+} 
+.toggle:checked+.lbl-toggle {
+  border-bottom-right-radius: 0; border-bottom-left-radius: 0;
+} 
+
+
+.table-of-contents {
+  padding: 16px 32px;
+  border-radius: 16px;
+  background-color: var(--background-secondary);
+}
+
+.table-of-contents #TableOfContents { 
+  margin-bottom: 24px;
+}
+
+.contact-form { 
+  padding: 64px 0;
+}
+
+.contact-form h2 { 
+  text-align: center;
+  font-size: 2rem;
+}
+
+/* .contact-form-container { */ 
+/*   padding: 0 16px; */
+/*   border: solid 1px var(--color); */
+/*   border-radius: 16px; */
+/* } */
+
+.contact-form-group {
+  margin-bottom: 16px;
+}
+
+.contact-form-label {
+  display: block;
+  padding: 0 8px;
+  margin-bottom: 4px;
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+.contact-form-control {
+  display: block;
+  width: 100%;
+  padding: 10px 8px;
+  border: 1px solid;
+  border-radius: 4px;
+  outline: none;
+}
+
+.contact-form-submit {
+  margin-top: 32px;
+  margin-bottom: 16px;
+}
+
+.contact-form-button {
+  width: 100%;
+  max-width: 100%;
+  color: white;
+  background-color: var(--primary);
+}
+
+.search {
+  display: flex;
+  width: 100%;
+  max-width: 800px;
+  border: 1px solid;
+  border-radius: 4px;
+}
+
+.search-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: -32px;
+  padding-left: 16px;
+  z-index: 2;
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px 8px 10px 44px;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+}
+
+@keyframes spin {
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+
+.search[data-running] .search-icon {
+  animation: spin 1.5s linear infinite;
+}
+
+.results {
+  margin-bottom: 64px;
+}
+
+.posts-results .posts-item {
+  padding: 8px;
+  background-color: var(--background-secondary);
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.posts-results .posts-item a {
+  text-decoration: none;
+}
+
+.terms {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.terms__list {
+  margin-left: -8px;
+  margin-right: -8px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+.terms__term {
+  display: flex;
+  width: calc(50% - 16px);
+  padding: 8px;
+  margin: 4px 8px;
+  border-bottom: dashed;
+}
+
+.term-tag-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 8px;
+}
+
+/* Code tabs */
+.tab-nav-button {
+    border-width: 1px 1px 1px 1px !important;
+    border-color: #ccc !important;
+    border-radius: 4px 4px 0 0 !important;
+    background-color: #ddd !important;
+    float: left;
+    display: block;
+    position: relative;
+    margin-left: 4px;
+    bottom: -6px;
+}
+.tab-nav-button:first-child {
+    margin-left: 0px;
+}
+.tab-nav-button.active {
+    background-color: #fff !important;
+    border-bottom-color: #fff !important;
+}
+
+.tab-panel {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.tab-content {
+    display: block;
+    clear: both;
+    padding: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    background-color: #212020;
+    border-radius: 0 4px 4px 4px;
+}
+.tab-content .tab-item{
+    display: none;
+}
+
+.tab-content .tab-item.active{
+    display: block;
+}
+
+.tab-item pre {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+pre {
+  font-size: 14px;
+}
+
+.code-toolbar { 
+  margin: 0;
+}
+
+div.notices {
+    margin: 2rem 0;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+}
+div.notices p {
+    padding: 15px;
+    display: block;
+    font-size: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    color: #666;
+}
+div.notices p:first-child:before {
+    position: absolute;
+    top: 2px;
+    color: #fff;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f06a";
+    left: 10px;
+}
+div.notices p:first-child:after {
+    position: absolute;
+    top: 2px;
+    color: #fff;
+    left: 2rem;
+}
+div.notices.info p {
+    border-top: 30px solid #F0B37E;
+    background: #FFF2DB;
+}
+div.notices.info p:first-child:after {
+    content: 'Info';
+}
+div.notices.warning p {
+    border-top: 30px solid rgba(217, 83, 79, 0.8);
+    background: #FAE2E2;
+}
+div.notices.warning p:first-child:after {
+    content: 'Warning';
+}
+div.notices.note p {
+    border-top: 30px solid #6AB0DE;
+    background: #E7F2FA;
+}
+div.notices.note p:first-child:after {
+    content: 'Note';
+}
+div.notices.tip p {
+    border-top: 30px solid rgba(92, 184, 92, 0.8);
+    background: #E6F9E6;
+}
+div.notices.tip p:first-child:after {
+    content: 'Tip';
+}

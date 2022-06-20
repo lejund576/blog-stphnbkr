@@ -1,0 +1,22 @@
+<section class="contact-form">
+  <div class="contact-form-container">
+    <h2 class="">Get in Touch!</h2>
+    <form name="Contact" action="{{ $.Site.Params.contactFormAction }}" method="post" {{ if $.Site.Params.contactFormNetlify }}netlify{{ end }}>
+      <div class="contact-form-group">
+        <label for="contact-form-name" class="contact-form-label">Name</label>
+        <input type="text" class="contact-form-control" id="contact-form-name" name="name">
+      </div>
+      <div class="contact-form-group">
+        <label for="contact-form-email" class="contact-form-label">Email</label>
+        <input type="email" class="contact-form-control" id="contact-form-email" name="email">
+      </div>
+      <div class="contact-form-group">
+        <label for="contact-form-message" class="contact-form-label">Message</label>
+        <textarea type="text" class="contact-form-control" id="contact-form-message" name="message" rows="8"></textarea>
+      </div>
+      <div class="contact-form-submit">
+        <button type="submit" class="button primary wide contact-form-button">Submit</button>
+      </div>
+    </form>
+  </div>
+</section>
