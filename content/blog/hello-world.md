@@ -2,8 +2,8 @@
 title = "Hello World"
 date = "1986-09-20"
 author = "Elliot"
-cover = "img/hello.jpg"
-description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
+cover = ""
+description = ""
 tags = ["Hello", "World"]
 +++
 

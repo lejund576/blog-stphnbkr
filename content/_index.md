@@ -1,9 +1,12 @@
 +++
-title = "Hello Friend"
+title = "Welcome"
+weight = 200
+toc = false
+showReadingTime = false
+showContactForm = false
+layout = "archive"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare risus ut
-rutrum tincidunt. Quisque lacinia venenatis enim, sed tincidunt mauris mollis
-a. Ut nec leo urna. Vivamus eget velit quam. Maecenas in mollis diam. Etiam
-ullamcorper dolor at tincidunt rutrum. Suspendisse posuere nisi nec elit
-ultricies vulputate. Nam commodo semper facilisis.
+Hello, I’m Steve. Welcome to my personal website, the content here will predominantly be networking related.
+
+The five most recent blog posts can be found below, alternatively, there is a search function on the tags page.
