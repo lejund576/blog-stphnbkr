@@ -5,6 +5,7 @@ author = "Elliot"
 cover = "img/hello.jpg"
 description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
 tags = ["Hello", "World", "Friend"]
+draft = "true"
 +++
 
 > "Hello, friend?" That's lame.

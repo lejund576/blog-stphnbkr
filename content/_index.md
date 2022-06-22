@@ -7,6 +7,6 @@ showContactForm = false
 layout = "archive"
 +++
 
-Hello, I’m Steve. Welcome to my personal website, the content here will predominantly be networking related.
+The content found here will predominantly be, but not limited to, the world of network engineering across various vendors. 
 
-The five most recent blog posts can be found below, alternatively, there is a search function on the tags page.
+My most recent blog posts can be found below; alternatively, there is a search function available on the menu bar top right. If you're unsure what to search, all posts will use tags to group related content. A complete list of the tags can also be found on the search page.

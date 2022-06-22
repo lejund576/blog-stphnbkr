@@ -6,12 +6,12 @@ body {
 }
 body.light-theme, :root {
   /* light theme color */
-  --primary: #fe5186;
+  --primary: #00b2f5;
 }
 
 body.dark-theme {
   /* dark theme colors */
-  --primary: #fe5186;
+  --primary: #00b2f5;
 }
 
 .logo .logo__mark,
@@ -89,7 +89,7 @@ body.dark-theme {
   cursor: pointer;
 }
 .lbl-toggle:hover { 
-  color: #FFF; 
+  color: #00b2f5; 
 } 
 .lbl-toggle::before {
   content: '';
