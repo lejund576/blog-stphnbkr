@@ -18,6 +18,8 @@ paginate = 5
   contactFormAction = ""
   # Uses Netlify to handle contact form?
   contactFormNetlify = true
+  # Color of the blinking cursor in the navbar
+  navbarCursorColor = "#fe5186"
 
 [languages]
   [languages.en]

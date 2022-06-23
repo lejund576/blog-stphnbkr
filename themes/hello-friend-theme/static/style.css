@@ -14,10 +14,23 @@ body.dark-theme {
   --primary: #00b2f5;
 }
 
+a {
+  transition: color 300ms;
+}
+
+a:hover {
+  color: #fe5186;
+  transition: color 300ms;
+}
+
 .logo .logo__mark,
 .logo .logo__text,
 .logo .logo__cursor {
   font-size: 20px;
+}
+
+.logo .logo__cursor {
+  background-color: #fe5186;
 }
 
 .posts {
