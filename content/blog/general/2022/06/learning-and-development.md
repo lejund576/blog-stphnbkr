@@ -1,11 +1,12 @@
 +++
 title = "Learning and Development"
-date = "2022-06-19"
+date = "2022-06-12"
 author = "Steve"
 cover = ""
 description = ""
 tags = ["General", "Learning", ]
 toc = false
+draft = true
 +++
 
 _Learning how to learn_

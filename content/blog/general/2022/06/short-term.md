@@ -1,6 +1,6 @@
 +++
 title = "Short term"
-date = "2022-06-12"
+date = "2022-06-05"
 author = "Steve"
 cover = ""
 description = ""
