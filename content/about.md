@@ -31,9 +31,8 @@ If you want to contact me for any reason, the options below are the best ways to
 
 This not an extensive list, a full and complete list can be found **[here](blog/certlsit)**.
 
-| Date | Vendor | Description |
-|------|--------|-------------|
-| 2016-12-08 | Cisco | CCNP Routing & Switching |
-| 2020-02-18 | Cisco | CCNP Security |
-| 2022-03-05 | Juniper | JNCIA |
-| 2022-06-30 | Fortinet | NSE4 |
+| Vendor | Description |
+|--------|-------------|
+| Cisco | CCNP Routing & Switching |
+| Cisco | CCNP Security |
+| Juniper | JNCIA |
