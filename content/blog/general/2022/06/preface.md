@@ -15,6 +15,8 @@ On reflection, when I look back at my school years, I think I just used to get b
 
 A couple of weeks into my new role, I was asked if I would be interested in fixing the faults instead of taking calls to log them. Getting off the phone and trying to solve problems appealed to me, I was then told about the CCNA and the NOC team we had for support downstairs if we could not provide a first-time fix. After finishing my shift that day, I went home to look into the CCNA a bit more. Much to my embarrassment, I realised that Cisco was not spelt _Sisqo_ after the infamous thong song. I noticed that my local college had a Cisco CCNA NetAcademy Discovery course that ran one night a week for two years. I signed up there and then. While an expensive and time-consuming pursuit to obtain a CCNA, it was a worthwhile investment that became an excellent foundation for me to build on in the coming years. 
 
+&nbsp;
+
 ## Sustainability
 
 Over the last 11 years, my career has been a period of steady, but not linear, exponential growth. My time has not been used most optimally or efficiently. Despite this, it has been progressive, sometimes drifting on the peripheral areas of my chosen discipline. Still, all were adding toward the bigger picture. 
@@ -31,6 +33,8 @@ The refresh happened around 2016, below is a summary of the now legacy security 
 + VPN replaced by Implementing Cisco Threat Control Solutions (**SIMOS**)
 
 This was mildly annoying as it meant that there would be a slight wait for new or updated learning materials for the new exams to become available. In some cases, the new materials never became available. If I remember correctly, Cisco only released their official certification guides (OCG) for two of the four exams. 
+
+&nbsp;
 
 ## The Bigger Picture
 
