@@ -13,7 +13,7 @@ One of the main things I neglected in my younger years was my education. Academi
 
 On reflection, when I look back at my school years, I think I just used to get bored more often than not, especially being forced to learn subjects that did not appeal to me. After working different dead-end jobs, mostly outdoors doing general labour work with periods of unemployment mixed in. I accidentally landed on my feet, securing an office job that has materialised into a career. 
 
-Over the last 11 years, my career has been a period of steady, but not linear, exponential growth. My time has not been used most optimally or efficiently. Still, it has been progressive, sometimes in areas on the peripheral areas of my chosen discipline. Still, all were adding toward the bigger picture. 
+Over the last 11 years, my career has been a period of steady, but not linear, exponential growth. My time has not been used most optimally or efficiently. Despite this, it has been progressive, sometimes in areas on the peripheral areas of my chosen discipline. Still, all were adding toward the bigger picture. 
 
 ## Sustainability
 
