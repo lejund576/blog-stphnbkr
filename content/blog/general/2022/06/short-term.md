@@ -4,7 +4,7 @@ date = "2022-06-05"
 author = "Steve"
 cover = ""
 description = ""
-tags = ["General", ]
+tags = ["General", "Personal" ]
 toc = false
 +++
 
