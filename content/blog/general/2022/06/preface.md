@@ -17,7 +17,7 @@ A couple of weeks into my new role, I was asked if I would be interested in fixi
 
 ## Sustainability
 
-Over the last 11 years, my career has been a period of steady, but not linear, exponential growth. My time has not been used most optimally or efficiently. Despite this, it has been progressive, sometimes in areas on the peripheral areas of my chosen discipline. Still, all were adding toward the bigger picture. 
+Over the last 11 years, my career has been a period of steady, but not linear, exponential growth. My time has not been used most optimally or efficiently. Despite this, it has been progressive, sometimes drifting on the peripheral areas of my chosen discipline. Still, all were adding toward the bigger picture. 
 
 What has enabled me to stay the course? Initially, the salaries and knowing the approximate ceiling of potential earnings that could be achieved from climbing the certification pyramids. I discovered pretty early on that this would not be sustainable for me. I would get bored easily, especially when attempting to learn topics that I would never have the opportunity to work on as part of my job. 
 
