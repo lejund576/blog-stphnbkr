@@ -11,9 +11,9 @@ draft = false
 
 One of the main things I neglected in my younger years was my education. Academically I was predicted to do well from the early national curriculum tests or 'SATs', but for one reason or another, I never took my education seriously. For brevity, I left school at 15. I got accepted into college on an IT course based on my predicted grades but dropped out after finding a part-time job. 
 
-On reflection, when I look back at my school years, I think I just used to get bored more often than not, especially being forced to learn subjects that did not appeal to me. After working different dead-end jobs, mostly outdoors doing general labour work with periods of struggling to find work mixed in. I accidentally landed on my feet, securing an office job that has materialised into a career. 
+On reflection, when I look back at my school years, I think I just used to get bored more often than not, especially being forced to learn subjects that did not appeal to me. After working different dead-end jobs, mostly outdoors doing general labour work with periods of unemployment mixed in. I accidentally landed on my feet, securing an office job that has materialised into a career. 
 
-Over the last 11 years, my career has been a period of steady, but not linear, exponential growth. My time has not been used most optimally or efficiently. Still, it has been progressive, sometimes in areas on the peripheral of my chosen discipline. Still, all were adding toward the bigger picture. 
+Over the last 11 years, my career has been a period of steady, but not linear, exponential growth. My time has not been used most optimally or efficiently. Still, it has been progressive, sometimes in areas on the peripheral areas of my chosen discipline. Still, all were adding toward the bigger picture. 
 
 ## Sustainability
 
@@ -24,7 +24,7 @@ I learnt this lesson at my previous company the hard way. My CCNP R&S was up for
 The refresh happened around 2016, below is a summary of the now legacy security track update:
 
 + SECURE replaced by Implementing Cisco Secure Access Solutions (SISAS)
-+ IPS replaced by Implementing Cisco Edge Network Security Solutions
++ IPS replaced by Implementing Cisco Edge Network Security Solutions (SITCS)
 + FIREWALL replaced by Implementing Cisco Security Mobility Solutions (SENSS)
 + VPN replaced by Implementing Cisco Threat Control Solutions (SIMOS)
 
@@ -38,4 +38,4 @@ In short, I had to learn how to learn. Different scientifically proven methodolo
 
 While succeeding in achieving my second CCNP, the experience from learning how to learn has proven to be a lot more valuable than the knowledge gained from the certification itself. My mindset has since changed a great deal as a by-product. I have become more aware of myself, first and foremost, and the broader industry in my chosen career path. 
 
-Hopefully, I can continue developing to become a better engineer over the coming months and years. I believe creating this blog is a small step in the right direction. As cliché as it might be, if other people can learn anything from my journey, that is a very welcome bonus. 
+Hopefully, I can continue developing to become a better engineer over the coming months and years. I believe creating this blog is a small step in the right direction. As cliché as it might be, if other people can learn anything from my journey, that is a very welcome bonus as we all move forward together, no matter the variance in strides.  
