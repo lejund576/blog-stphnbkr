@@ -15,10 +15,6 @@ I'm a multi-vendor certified network engineer from Manchester, UK. I've been wor
 
 Now six months into my new role, the experience has been quite eye-opening as to just how comfortable I have become. The primary reason for starting this blog is to keep me accountable for continuous learning and development to avoid becoming too comfortable or stagnating again. Secondly, I would like to document any future certification pursuits and hopefully build up a profile in an alternative way to social media. 
 
-Putting my career aside, some of my interests are Audio/Visual Equipment, Fitness & Nutrition, Interior Design, Online Gaming, Photography, Sport, and Travel.
-
-My favourite sports are Boxing, F1, Football, and Powerlifting. Away from the screen or keyboard, I enjoy trying to play the Piano and, in more recent times, playing Chess. 
-
 &nbsp;
 
 ## Get in touch
