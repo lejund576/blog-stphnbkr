@@ -17,7 +17,7 @@ Now six months into my new role, the experience has been quite eye-opening as to
 
 Putting my career aside, some of my interests are Audio/Visual Equipment, Fitness & Nutrition, Interior Design, Online Gaming, Photography, Sport, and Travel.
 
-Some of my favourite sports are Boxing, F1, Football, and Powerlifting. Away from the screen or keyboard, I enjoy trying to play the Piano and, in more recent times, playing Chess. 
+My favourite sports are Boxing, F1, Football, and Powerlifting. Away from the screen or keyboard, I enjoy trying to play the Piano and, in more recent times, playing Chess. 
 
 &nbsp;
 
