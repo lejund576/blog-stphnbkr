@@ -45,4 +45,14 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
 
 | JNCIA | Juniper Networks Certified Associate |
 
- 
+
+#### Future Potential Learning
+
+[AWS, Advanced Networking Speciality](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
+: Cloud is well marketed and AWS are the Market leaders in this space.
+
+[CWNP, Certified Wireless Network Professional](https://www.cwnp.com/it-certifications/)
+: Vendor neutral wireless exams. The demand for wireless is increasing especially with IoT.
+
+[Palo Alto, Network Security Engineer](https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-network-security-engineer)
+: Palo Alto have been the market leaders for enterprise firewalls for a number of years now.
