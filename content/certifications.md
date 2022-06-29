@@ -13,30 +13,48 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
 
 ### Cisco
 
-| Certification | Description                                                                    |
-|---------------|--------------------------------------------------------------------------------|
-| CCENT | Cisco Certified Entry Networking Technician                                    |
-| CCNA | Cisco Certified Network Associate Routing and Switching                        |
-| CCNA | Cisco Certified Network Associate Security                                     |
-| CCNP | Cisco Certified Network Professional Routing and Switching                     |
-| CCNP | Cisco Certified Specialist - Enterprise Core                                   |
-| CCNP | Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation |
-| CCNP | Cisco Certified Specialist - Network Security VPN Implementation               |
-| CCNP | Cisco Certified Specialist - Web Content Security                              |
-| CCNP | Cisco Certified Specialist - Security Identity Management Implementation       |
-| CCNP | Cisco Certified Specialist - Network Security Firepower                        |
-| CCNP | Cisco Certified Network Professional Security                                  |
+| Certification | Description |
+|---------------|-------------|
+| CCENT | Cisco Certified Entry Networking Technician |
+| CCNA | Network Associate Routing and Switching |
+| CCNA | Network Associate Security |
+| CCNP | Network Professional Routing and Switching |
+| CCNP | Specialist - Enterprise Core |
+| CCNP | Specialist - Enterprise Advanced Infrastructure Implementation |
+| CCNP | Specialist - Network Security VPN Implementation |
+| CCNP | Specialist - Web Content Security |
+| CCNP | Specialist - Security Identity Management Implementation |
+| CCNP | Specialist - Network Security Firepower |
+| CCNP | Network Professional Security |
+
+- CCENT
+⋅⋅⋅Entry Networking Technician
+- CCNA 
+⋅⋅⋅Routing and Switching
+⋅⋅⋅Security
+- CCNP
+⋅⋅⋅Enterprise Infrastructure
+⋅⋅⋅Routing and Switching
+⋅⋅⋅Security
+- Specialist
+⋅⋅⋅Enterprise Core
+⋅⋅⋅Enterprise Advanced Infrastructure Implementation
+⋅⋅⋅Network Security VPN Implementation
+⋅⋅⋅Web Content Security
+⋅⋅⋅Security Identity Management Implementation
+⋅⋅⋅Network Security Firepower
+
 
 &nbsp;
 
 ### Fortinet
 
-| Certification | Description                                                          |
-|---------------|----------------------------------------------------------------------|
-| NSE1 | Fortinet Network Security Associate (Information Security Awareness) |
-| NSE2 | Fortinet Network Security Associate (The Evolution of Cybersecurity) |
-| NSE3 | Fortinet Network Security Associate (Product Awareness)              |
-| NSE4 | Fortinet Network Security Professional (Security and Infrastructure) |
+| Certification | Description |
+|---------------|-------------|
+| NSE1 | Network Security Associate (Information Security Awareness) |
+| NSE2 | Network Security Associate (The Evolution of Cybersecurity) |
+| NSE3 | Network Security Associate (Product Awareness) |
+| NSE4 | Network Security Professional (Security and Infrastructure) |
 
 &nbsp;
 
@@ -51,10 +69,10 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
 #### Future Potential Learning
 
 [AWS, Advanced Networking Speciality](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
-: Cloud is well marketed and AWS are the Market leaders in this space.
-
+: _Cloud is well marketed and AWS are the Market leaders in this space_
+&nbsp;
 [CWNP, Certified Wireless Network Professional](https://www.cwnp.com/it-certifications/)
-: Vendor neutral wireless exams. The demand for wireless is increasing especially with IoT.
-
+: _Vendor neutral wireless exams. The demand for wireless is increasing especially with IoT_
+&nbsp;
 [Palo Alto, Network Security Engineer](https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-network-security-engineer)
-: Palo Alto have been the market leaders for enterprise firewalls for a number of years now.
+: _Palo Alto have been the market leaders for enterprise firewalls for a number of years now_
