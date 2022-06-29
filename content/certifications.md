@@ -10,6 +10,7 @@ The tables below detail the different certificates I have obtained over the year
 Each table will be listed in alphabetical order and grouped by vendor. Still, the overwhelming majority will be Cisco as they are, head and shoulders, the most recognised in our industry. 
 
 &nbsp;
+---
 
 ## Cisco
 
@@ -31,15 +32,9 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
   - Network Security Firepower
 
 &nbsp;
+---
 
 ## Fortinet
-
-| Certification | Description |
-|---------------|-------------|
-| NSE1 | Network Security Associate (Information Security Awareness) |
-| NSE2 | Network Security Associate (The Evolution of Cybersecurity) |
-| NSE3 | Network Security Associate (Product Awareness) |
-| NSE4 | Network Security Professional (Security and Infrastructure) |
 
 - #### NSE1
   - Network Security Associate (Information Security Awareness)
@@ -51,6 +46,7 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
   - Network Security Professional (Security and Infrastructure)
 
 &nbsp;
+---
 
 ## Juniper
 
@@ -58,6 +54,7 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
   - Junos Associate
 
 &nbsp;
+---
 
 #### Future Potential Learning
 
