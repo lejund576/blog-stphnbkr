@@ -41,7 +41,7 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
 - #### NSE2
   - Network Security Associate (The Evolution of Cybersecurity)
 - #### NSE3
-  - etwork Security Associate (Product Awareness)
+  - Network Security Associate (Product Awareness)
 - #### NSE4
   - Network Security Professional (Security and Infrastructure)
 
