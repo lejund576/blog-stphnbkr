@@ -27,22 +27,22 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
 | CCNP | Specialist - Network Security Firepower |
 | CCNP | Network Professional Security |
 
-- CCENT
-⋅⋅⋅Entry Networking Technician
-- CCNA 
-⋅⋅⋅Routing and Switching
-⋅⋅⋅Security
-- CCNP
-⋅⋅⋅Enterprise Infrastructure
-⋅⋅⋅Routing and Switching
-⋅⋅⋅Security
-- Specialist
-⋅⋅⋅Enterprise Core
-⋅⋅⋅Enterprise Advanced Infrastructure Implementation
-⋅⋅⋅Network Security VPN Implementation
-⋅⋅⋅Web Content Security
-⋅⋅⋅Security Identity Management Implementation
-⋅⋅⋅Network Security Firepower
+- #### CCENT
+  - Entry Networking Technician
+- #### CCNA 
+  - Routing and Switching
+  - Security
+- #### CCNP
+  - Enterprise Infrastructure
+  - Routing and Switching
+  - Security
+- #### Specialist
+  - Enterprise Core
+  - Enterprise Advanced Infrastructure Implementation
+  - Network Security VPN Implementation
+  - Web Content Security
+  - Security Identity Management Implementation
+  - Network Security Firepower
 
 
 &nbsp;
