@@ -1,6 +1,6 @@
 +++
 title = "Certifications"
-toc = true
+toc = false
 showReadingTime = false
 showContactForm = false
 +++
