@@ -10,7 +10,7 @@ The tables below detail the different certificates I have obtained over the year
 Each table will be listed in alphabetical order and grouped by vendor. Still, the overwhelming majority will be Cisco as they are, head and shoulders, the most recognised in our industry. 
 
 &nbsp;
----
+_________________
 
 ## Cisco
 
@@ -32,7 +32,7 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
   - Network Security Firepower
 
 &nbsp;
----
+_________________
 
 ## Fortinet
 
@@ -46,7 +46,7 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
   - Network Security Professional (Security and Infrastructure)
 
 &nbsp;
----
+_________________
 
 ## Juniper
 
@@ -54,7 +54,7 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
   - Junos Associate
 
 &nbsp;
----
+_________________
 
 #### Future Potential Learning
 
