@@ -11,21 +11,7 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
 
 &nbsp;
 
-### Cisco
-
-| Certification | Description |
-|---------------|-------------|
-| CCENT | Cisco Certified Entry Networking Technician |
-| CCNA | Network Associate Routing and Switching |
-| CCNA | Network Associate Security |
-| CCNP | Network Professional Routing and Switching |
-| CCNP | Specialist - Enterprise Core |
-| CCNP | Specialist - Enterprise Advanced Infrastructure Implementation |
-| CCNP | Specialist - Network Security VPN Implementation |
-| CCNP | Specialist - Web Content Security |
-| CCNP | Specialist - Security Identity Management Implementation |
-| CCNP | Specialist - Network Security Firepower |
-| CCNP | Network Professional Security |
+## Cisco
 
 - #### CCENT
   - Entry Networking Technician
@@ -44,10 +30,9 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
   - Security Identity Management Implementation
   - Network Security Firepower
 
-
 &nbsp;
 
-### Fortinet
+## Fortinet
 
 | Certification | Description |
 |---------------|-------------|
@@ -56,23 +41,32 @@ Each table will be listed in alphabetical order and grouped by vendor. Still, th
 | NSE3 | Network Security Associate (Product Awareness) |
 | NSE4 | Network Security Professional (Security and Infrastructure) |
 
+- #### NSE1
+  - Network Security Associate (Information Security Awareness)
+- #### NSE2
+  - Network Security Associate (The Evolution of Cybersecurity)
+- #### NSE3
+  - etwork Security Associate (Product Awareness)
+- #### NSE4
+  - Network Security Professional (Security and Infrastructure)
+
 &nbsp;
 
-### Juniper
+## Juniper
 
-| Certification | Description |
-|---------------|-------------|
-| JNCIA | Juniper Networks Certified Associate |
+- #### JNCIA
+  - Junos Associate
 
 &nbsp;
 
 #### Future Potential Learning
 
-[AWS, Advanced Networking Speciality](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
-: _Cloud is well marketed and AWS are the Market leaders in this space_
-&nbsp;
-[CWNP, Certified Wireless Network Professional](https://www.cwnp.com/it-certifications/)
-: _Vendor neutral wireless exams. The demand for wireless is increasing especially with IoT_
-&nbsp;
-[Palo Alto, Network Security Engineer](https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-network-security-engineer)
-: _Palo Alto have been the market leaders for enterprise firewalls for a number of years now_
+- [AWS, Advanced Networking Speciality](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
+  -  _Cloud is well marketed and AWS are the Market leaders in this space_
+
+- [CWNP, Certified Wireless Network Professional](https://www.cwnp.com/it-certifications/)
+  -  _Vendor neutral wireless exams. The demand for wireless is increasing especially with IoT_
+
+
+- [Palo Alto, Network Security Engineer](https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-network-security-engineer)
+  -  _Palo Alto have been the market leaders for enterprise firewalls for a number of years now_
