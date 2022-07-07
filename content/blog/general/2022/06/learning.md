@@ -11,6 +11,8 @@ draft = false
 
 #### _Commitment to lifelong learning_
 
+_________________
+
 I used to think that learning stops when you leave school, college or university. This misconception I had appears to be quite common amongst my family, friends, colleagues, etc. I left the education system earlier than most, but I was never taught how to learn, which isn't a result of choosing not to go into higher education. 
 
 Throughout my chosen career, acquiring different certifications, while not necessary, has been a cornerstone of my progression. My previous blog post touched on my usual approach to preparing for the exams needed to obtain the certifications. This served me well until the exams were refreshed and the learning materials I would usually use were unavailable. In hindsight, this was a blessing in disguise as it enabled me to become more self-aware in learning and personal development. 
