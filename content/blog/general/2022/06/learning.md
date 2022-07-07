@@ -9,7 +9,7 @@ toc = false
 draft = false
 +++
 
-_Commitment to lifelong learning_
+### _Commitment to lifelong learning_
 
 I used to think that learning stops when you leave school, college or university. This misconception I had appears to be quite common amongst my family, friends, colleagues, etc. I left the education system earlier than most, but I was never taught how to learn, which isn't a result of choosing not to go into higher education. 
 
