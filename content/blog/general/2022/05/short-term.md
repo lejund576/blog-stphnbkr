@@ -8,7 +8,8 @@ tags = ["General", "Personal" ]
 toc = false
 +++
 
-_What is instore for the immediate future?_
+#### _What is instore for the immediate future?_
+_________________
 
 In the short term, I am looking to take the Fortinet NSE4 exam before my probation ends at my new job. My probation end date is 4th July, and I have booked the exam for 30th June. 
 

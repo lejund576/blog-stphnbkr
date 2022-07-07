@@ -8,7 +8,8 @@ tags = ["General", "Personal", "Introduction"]
 toc = false
 +++
 
-_I have a blog.. now what?_
+#### _I have a blog.. now what?_
+_________________
 
 > "Hello World"
 
