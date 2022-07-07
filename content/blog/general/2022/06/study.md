@@ -1,6 +1,6 @@
 +++
 title = "Study methodologies"
-date = "2022-06-19"
+date = "2022-06-12"
 author = "Steve"
 cover = ""
 description = ""
@@ -36,6 +36,7 @@ First 3 minutes is the warm up
 - get a feel of what it is you want to study 
 - previewing the book/chapter 
 
+tiresome process 
 
 ## Fortgetting Curve 
 
