@@ -29,10 +29,10 @@ If you want to contact me for any reason, the options below are the best ways to
 
 ## Certifications
 
-This not an extensive list, a full and complete list can be found **[here](https://www.stphnbkr.com/certifications/)**.
-
 | Vendor | Description |
 |--------|-------------|
 | Cisco | CCNP Routing & Switching |
 | Cisco | CCNP Security |
 | Juniper | JNCIA |
+
+This not an extensive list, a full and complete list can be found **[here](https://www.stphnbkr.com/certifications/)**.
