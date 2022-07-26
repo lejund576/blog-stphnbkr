@@ -1,5 +1,5 @@
 +++
-title = "Learning to learn"
+title = "Learning to Learn"
 date = "2022-06-05"
 author = "Steve"
 cover = ""
