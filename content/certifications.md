@@ -26,10 +26,11 @@ _________________
 - #### Specialist
   - Enterprise Core
   - Enterprise Advanced Infrastructure Implementation
-  - Network Security VPN Implementation
-  - Web Content Security
-  - Security Identity Management Implementation
   - Network Security Firepower
+  - Network Security VPN Implementation
+  - Security Core
+  - Security Identity Management Implementation
+  - Web Content Security
 
 &nbsp;
 _________________
