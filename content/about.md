@@ -33,7 +33,7 @@ If you want to contact me for any reason, the options below are the best ways to
 |--------|-------------|
 | Cisco | CCNP Routing & Switching |
 | Cisco | CCNP Security |
-| Fortinet | NSE4 - Network Security Professional |
-| Juniper | JNCIS - Service Provider |
+| Fortinet | NSE4 Network Security Professional |
+| Juniper | JNCIS Service Provider |
 
 This not an extensive list, a full and complete list can be found **[here](https://www.stphnbkr.com/certifications/)**.
