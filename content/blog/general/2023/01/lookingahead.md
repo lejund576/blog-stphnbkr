@@ -1,6 +1,6 @@
 +++
 title = "Looking ahead"
-date = "2022-01-10"
+date = "2022-01-08"
 author = "Steve"
 cover = ""
 description = ""
@@ -41,3 +41,4 @@ I'm leaning more towards passing two separate professional concentration exams o
 + Hopefully, I will become a Manchester United season ticket holder
 + Improve at Chess
 + Learn Python and possibly pursue the DevNet certification 
++ Write at least one blog post a month
