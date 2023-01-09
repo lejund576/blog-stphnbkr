@@ -36,7 +36,7 @@ A lot of my time is recorded in my calendar but has yet to fall into a category 
 ## Successes
 
 ### Exams
-| Description | Result | Date |
+| Description | Result | Pass Date |
 |-------------|--------|------|
 | JNCIA | Juniper Networks Certified Associate | 2022-03-05 | 
 | NSE4 | Fortinet Network Security Professional | 2022-09-03 | 
