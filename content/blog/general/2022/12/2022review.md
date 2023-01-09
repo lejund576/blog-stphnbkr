@@ -36,10 +36,10 @@ A lot of my time is recorded in my calendar but has yet to fall into a category 
 ## Successes
 
 ### Exams
-| Exam | Description | Result | Date |
-|------|-------------|--------|------|
-| JN0-104 | Junos, Associate (JNCIA-Junos) | Pass | 2022-03-05 | 
-| NSE4_FGT-7.0 | Fortinet NSE 4 - FortiOS 7.0 | Pass | 2022-09-03 | 
+| Description | Result | Date |
+|-------------|--------|------|
+| JNCIA | Juniper Networks Certified Associate | Pass | 2022-03-05 | 
+| NSE4 | Fortinet Network Security Professional | Pass | 2022-09-03 | 
 
 ### Courses 
 
