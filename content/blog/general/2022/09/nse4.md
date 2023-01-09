@@ -8,6 +8,7 @@ tags = ["Fortinet", "NSE4" ]
 toc = true
 +++
 
+&nbsp;
 _________________
 
 I passed the Fortinet NSE 4 exam today. This blog post will describe the exam, how I approached the topics and my experience of the exam itself. 
