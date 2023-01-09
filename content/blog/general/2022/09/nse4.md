@@ -8,7 +8,6 @@ tags = ["Fortinet", "NSE4" ]
 toc = true
 +++
 
-&nbsp;
 _________________
 
 I passed the Fortinet NSE 4 exam today. This blog post will describe the exam, how I approached the topics and my experience of the exam itself. 
@@ -63,14 +62,14 @@ I understand that access to their training institute was made accessible to the 
 
 Additionally, I purchased two hardcover books authored by Daniel Howard from Amazon:
 
-- Introduction to FortiGate Part-I Infrastructure NSE4 Study Guide: Fortinet Network Security [^1]
-- Introduction to FortiGate Part-II Infrastructure NSE4 Study Guide: Fortinet Network Security [^2]
+- **[Introduction to FortiGate Part-I Infrastructure NSE4 Study Guide: Fortinet Network Security](https://www.amazon.co.uk/gp/product/B08QRKVDPV/ref=dbs_a_def_rwt_hsch_vapi_tu00_p1_i1)**[
+- **[Introduction to FortiGate Part-II Infrastructure NSE4 Study Guide: Fortinet Network Security](https://www.amazon.co.uk/gp/product/B08QS549Q7?ref_=dbs_m_mng_rwt_calw_thcv_1&storeType=ebooks)**[
 
 These books were useful but not essential to pass the NSE 4 exam. They were written based on an older version of FortiOS (6.4), but the concepts and examples given are valuable for real-world scenarios. 
 
 Lastly, like when studying for any other exam, hands-on experience or labbing is invaluable. I was able to do some practice labbing on EVE-NG using FortiGate (FGT), FortiManager (FMG), and FortiAnalyzer (FAZ). However, it was limited, and I could not practice the UTM functionality without additional licences, but my exposure at work day-to-day mitigated this.
 
-At the time, there weren't any on-demand video courses from any IT training providers that I could find online. This has since changed with CBT Nuggets and INE launching some content in recent months. 
+At the time, there weren't any on-demand video courses from any IT training providers that I could find online. This has since changed with **[[CBT Nuggets](https://www.cbtnuggets.com)** and **[INE](https://ine.com)** launching some content in recent months. 
 
 &nbsp;
 
