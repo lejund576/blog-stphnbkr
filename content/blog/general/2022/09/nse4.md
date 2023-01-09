@@ -12,14 +12,11 @@ _________________
 
 I passed the Fortinet NSE 4 exam today. This blog post will describe the exam, how I approached the topics and my experience of the exam itself. 
 
-&nbsp;
-
 ## What is the NSE4?
 
 Fortinet describes the NSE4 as ideal for Network Security Administrators, Technical Support Engineers, and System Engineers. It is placed on the second tier of the certification pyramid with Fortinet.
 
 > _"NSE 4 identifies your ability to configure, install, and manage the day-to-day configuration, monitoring, and operation of a FortiGate device to support specific corporate network security policies. "_
-
 &nbsp;
 
 ## Exam Topics
@@ -48,7 +45,6 @@ Fortinet describes the NSE4 as ideal for Network Security Administrators, Techni
 -**VPN**
 	- Configure and implement different SSL-VPN modes to provide secure access to the private network
 	- Implement a meshed or partially redundant IPsec VPN
-
 &nbsp;
 
 ## Study Resources
@@ -62,15 +58,14 @@ I understand that access to their training institute was made accessible to the 
 
 Additionally, I purchased two hardcover books authored by Daniel Howard from Amazon:
 
-- **[Introduction to FortiGate Part-I Infrastructure NSE4 Study Guide: Fortinet Network Security](https://www.amazon.co.uk/gp/product/B08QRKVDPV/ref=dbs_a_def_rwt_hsch_vapi_tu00_p1_i1)**[
-- **[Introduction to FortiGate Part-II Infrastructure NSE4 Study Guide: Fortinet Network Security](https://www.amazon.co.uk/gp/product/B08QS549Q7?ref_=dbs_m_mng_rwt_calw_thcv_1&storeType=ebooks)**[
+- **[Introduction to FortiGate Part-I Infrastructure NSE4 Study Guide](https://www.amazon.co.uk/gp/product/B08QRKVDPV/ref=dbs_a_def_rwt_hsch_vapi_tu00_p1_i1)**
+- **[Introduction to FortiGate Part-II Infrastructure NSE4 Study Guide](https://www.amazon.co.uk/gp/product/B08QS549Q7?ref_=dbs_m_mng_rwt_calw_thcv_1&storeType=ebooks)**
 
 These books were useful but not essential to pass the NSE 4 exam. They were written based on an older version of FortiOS (6.4), but the concepts and examples given are valuable for real-world scenarios. 
 
 Lastly, like when studying for any other exam, hands-on experience or labbing is invaluable. I was able to do some practice labbing on EVE-NG using FortiGate (FGT), FortiManager (FMG), and FortiAnalyzer (FAZ). However, it was limited, and I could not practice the UTM functionality without additional licences, but my exposure at work day-to-day mitigated this.
 
-At the time, there weren't any on-demand video courses from any IT training providers that I could find online. This has since changed with **[[CBT Nuggets](https://www.cbtnuggets.com)** and **[INE](https://ine.com)** launching some content in recent months. 
-
+At the time, there weren't any on-demand video courses from any IT training providers that I could find online. This has since changed with **[CBT Nuggets](https://www.cbtnuggets.com)** and **[INE](https://ine.com)** launching some content in recent months. 
 &nbsp;
 
 ## Exam Experience
@@ -88,7 +83,6 @@ The exam was scheduled via PearsonVUE and was sat in person at a local test cent
 | **Product version** | FortiOS 7.0 | 
 
 I found the exam to be fair on reflection. I likely over-studied for it due to the breadth of topics combined with challenges at work when working on the hardware on production networks. There was an element of perfection paralysis when getting started, as I had the desire to try some different study methodologies, but this did not materialise due to the lack of learning resources available. In terms of difficulty, I found the NSE 4 easier than the CCNA Security exam I sat, but this is not a fair comparison on my part as I now have many more years of experience under my belt. In terms of difficulty when comparing the certification pyramid with Cisco, I would place the NSE 4, or 'technical' tier of Fortinet exams, between Cisco's now discontinued CCENT and the CCNA. 
-
 &nbsp;
 
 ## Conclusion
