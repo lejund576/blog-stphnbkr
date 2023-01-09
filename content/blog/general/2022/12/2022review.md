@@ -5,7 +5,7 @@ author = "Steve"
 cover = ""
 description = ""
 tags = ["General", "Personal" ]
-toc = true
+toc = false
 +++
 
 As 2022 comes to an end, it seems pertinent to conclude the year with a blog post to review the last twelve months.
@@ -35,13 +35,13 @@ A lot of my time is recorded in my calendar but has yet to fall into a category 
 
 ## Successes
 
-#### Exams
+### Exams
 | Exam | Description | Result | Date |
 |------|-------------|--------|------|
 | JN0-104 | Junos, Associate (JNCIA-Junos) | Pass | 2022-03-05 | 
 | NSE4_FGT-7.0 | Fortinet NSE 4 - FortiOS 7.0 | Pass | 2022-09-03 | 
 
-#### Courses 
+### Courses 
 
 Listed alphabetically:
 
@@ -69,13 +69,13 @@ My new job is far less stressful and demanding than my previous role. I don't fi
 - 2 weeks off for World Cup 
 - 2 weeks off for Christmas and New Year 
 
-Total: 13 weeks 
+Total: 13 weeks off
 
 Another trend is that I don't appear to study on annual leave or on bank holidays (36 days total). Not including days for breaks here and there for social events or rest, the entire days available for study was 274, which equates to 75% of the year in days and 39 weeks of the 52. 
 
 With these rough figures in mind, if the weekly hours are recalculated against 39 weeks instead of 52, this would put me at an average of 19 hours per week spent studying.
 
-#### Failures
+### Failures
 
 On the whole, 2022 has been a success. This may not be a failure, as it turned out to be out of my control. After passing the probation period at work in June, I applied for a post-graduate distance learning degree at Glasgow Caledonian University. The course was titled 'MSc Advanced Internetwork Engineering', and from the description, they had partnered with INE to prepare you for the CCIE Lab. 
 
@@ -83,7 +83,7 @@ Long story short, after writing my personal statement and gathering references, 
 
 In hindsight, it would have been an expensive (circa £15,000 over 2 years) journey to obtain the CCIE. While working with like-minded students would have its value, the cost is unjustified as I already have access to the INE materials through work. I think the accountability of paying out of my own pocket would be the push I needed to pursue the CCIE, but I feel like attending a Micronics Bootcamp would be just as, if not more effective. 
 
-#### Best of 2022
+### Best of 2022
 
 + **Game:** Chess, FIFA 23
 + **Movie:** Top Gun: Maverick (2022), Sound of Metal (2019)
