@@ -5,7 +5,8 @@ author = "Steve"
 cover = ""
 description = ""
 tags = ["General", "Personal" ]
-toc = true
+toc = false
+draft = true
 +++
 
 What does all of this mean? My usual approach to preparing for these exams was no longer viable. Work experience aside, my process for covering the exam topics consisted of reading the official certification guides, watching videos and trying to create my own practice labs where possible. 
