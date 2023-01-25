@@ -6,7 +6,7 @@ cover = ""
 description = ""
 tags = ["General", "Personal", ]
 toc = false
-draft = false
+draft = true
 +++
 
 #### _Commitment to lifelong learning_

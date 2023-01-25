@@ -6,6 +6,7 @@ cover = ""
 description = ""
 tags = ["General", "Personal" ]
 toc = false
+draft = true 
 +++
 
 As 2022 comes to an end, it seems pertinent to conclude the year with a blog post to review the last twelve months.

@@ -6,6 +6,7 @@ cover = ""
 description = ""
 tags = ["General", "Personal" ]
 toc = false
+draft = true
 +++
 
 Over the last 11 years, my career has been a period of steady, but not linear, growth. My time has not been used most optimally or efficiently. Despite this, it has been progressive, sometimes drifting on the peripheral areas of my chosen discipline. Still, all were adding toward the bigger picture. 

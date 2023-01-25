@@ -6,6 +6,7 @@ cover = ""
 description = ""
 tags = ["General", "Personal", "Introduction"]
 toc = false
+draft = false
 +++
 
 #### _I have a blog.. now what?_

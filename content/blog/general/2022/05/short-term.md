@@ -5,7 +5,7 @@ author = "Steve"
 cover = ""
 description = ""
 tags = ["General", "Personal" ]
-toc = false
+toc = true
 +++
 
 #### _What is instore for the immediate future?_

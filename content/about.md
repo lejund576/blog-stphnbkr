@@ -21,7 +21,7 @@ Now six months into my new role, the experience has been quite eye-opening as to
 
 If you want to contact me for any reason, the options below are the best ways to do that.
 
-+ [Credly](https://www.credly.com/users/stephenbaker88/badges)
+<!-- + [Credly](https://www.credly.com/users/stephenbaker88/badges) -->
 + [Email](mailto:steve@stphnbkr.com)
 + [Linkedin](https://www.linkedin.com/in/stephenbaker-/)
  
