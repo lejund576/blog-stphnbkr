@@ -39,14 +39,39 @@ There is a certain prestige and mystique with any CCIE exam of being at the top 
 | Labbing Time | 200 hours 15 minutes  | 
 | Labs Completed | 703 | 
 
+Some statistics from the above table:
+
+- 1227 hours equates to 23.6 hours per day for the year
+    - 7.01% of total study time for reading books
+    - 21.92% of total study time for watching videos
+    - 16.03% of total study time for workbook labs
+- 672 hours uncategorised falls in to the below areas
+    - Researching on learning how to learn 
+    - Training courses
+    - Webinars 
+    - Creating Anki cards
+    - Updating hyprid tracker-planner spreadsheet 
+
+Majority of the time studying was done between 04:30 - 08:45 AM each morning. The frame work is broken down into completing pre-planned tasks each day in order of priority of: 
+
+```Labbing > Active Recall > Reading > Watching```
+
+
+
 ## SUCCESSES
+
+#### Reading
+
+#### Courses 
+
+#### Certifications
 
 ## FAILURES 
 
 ## Best of 2023
 
 + **Game:** Chess
-+ **Film:** Oppenheimer, Killers of the Flower Moon, BladckBerry, Tetris 
++ **Film:** Oppenheimer, Killers of the Flower Moon, BlackBerry, Tetris 
 + **TV:** The Last of Us, Mare of Easttown
 
 
