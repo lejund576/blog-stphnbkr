@@ -56,6 +56,11 @@ The total recorded hours are not specific to the CCIE pursuit, some statistics f
     - Creating Anki cards
     - Creating lab topologies and startup-configs in EVE-NG
     - Updating the hybrid tracker-planner spreadsheet 
+- Anki Flashcard breakdown
+    - Total Reviews: 6,771 
+    - Total days studied: 256 of 365 (70%)
+    - Average for days studied: 26 reviews/day 
+&nbsp;
 
 Most of the time, studying was done between 04:30 and 08:45 AM each morning. The framework is broken down into completing pre-planned tasks each day in order of the following priority: 
 
@@ -123,7 +128,7 @@ I have loosely been following the recommended reading list from Brian McGahan, w
 
 &nbsp;
 
-## MISCELLANEOUS
+### MISCELLANEOUS
 
 + **Game:** Chess
 + **Film:** Oppenheimer, Killers of the Flower Moon, BlackBerry, Tetris 
