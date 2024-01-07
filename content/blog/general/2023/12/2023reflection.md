@@ -39,7 +39,7 @@ There is a certain prestige and mystique with any CCIE exam of being at the top 
 | Labbing Time | 200 hours 15 minutes  | 
 | Labs Completed | 703 | 
 
-Some statistics from the above table:
+The total recorded hours are not specific to the CCIE pursuit, some statistics from the above table can be found below:
 
 - 1,227 hours equates to 23.6 hours per day for the year
     - 7.01% of total study time for reading books
@@ -52,12 +52,25 @@ Some statistics from the above table:
     - Creating Anki cards
     - Creating lab topologies and startup-configs in EVE-NG
     - Updating the hybrid tracker-planner spreadsheet 
+- 555 hours roughly spent focusing on the CCIE
 
 Most of the time, studying was done between 04:30 and 08:45 AM each morning. The framework is broken down into completing pre-planned tasks each day in order of the following priority: 
 
-```Labbing > Active Recall > Reading > Watching```
+> ```css 
+> Labbing > Active Recall > Reading > Watching
+> ```
 
+option2
 
+```
+&nbsp;
+Labbing > Active Recall > Reading > Watching
+&nbsp;
+```
+
+If the planned tasks were complete for the day, I would use any spare time to review the Anki question cards, mostly built from the end-of-chapter quizzes in the books I've read. If the algorithm was up to date for the Q&A decks, time permitting, I would move on to the lab scheduling card decks to revisit labs from topics. 
+
+This time next year, the labbing hours will make up for most of the total hours, hopefully having successfully passed the lab exam. 
 
 ## SUCCESSES
 
