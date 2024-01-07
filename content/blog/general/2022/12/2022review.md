@@ -6,7 +6,7 @@ cover = ""
 description = ""
 tags = ["General", "Personal" ]
 toc = false
-draft = true 
+draft = false 
 +++
 
 As 2022 comes to an end, it seems pertinent to conclude the year with a blog post to review the last twelve months.
@@ -67,7 +67,7 @@ My new job is far less stressful and demanding than my previous role. I don't fi
 - 2 weeks off after a stag-do weekend in April
 - 2 weeks off to focus on applying for University in June 
 - 2 weeks off after passing NSE4 in September 
-- 2 weeks off for World Cup 
+- 2 weeks off for the World Cup 
 - 2 weeks off for Christmas and New Year 
 
 Total: 13 weeks off

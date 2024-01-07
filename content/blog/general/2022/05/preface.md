@@ -6,7 +6,7 @@ cover = ""
 description = ""
 tags = ["General", "Personal", ]
 toc = false
-draft = true
+draft = false
 +++
 
 One of the main things I neglected in my younger years was my education. Academically I was predicted to do well from the early national curriculum tests or 'SATs', but for one reason or another, I never took my education seriously. For brevity, I left school at 15. I got accepted into college on an IT course based on my predicted grades but dropped out after finding a part-time job. 

@@ -6,7 +6,7 @@ cover = ""
 description = ""
 tags = ["General", "Personal" ]
 toc = false
-draft = true
+draft = false
 +++
 
 Now I'm settling into my new role, I'm more confident but far from competent. There are still a lot of grey areas and different vendors to become more skilled at, notably Aruba and Palo Alto. There have been discussions regarding some vendor training for 2023, which would be great.

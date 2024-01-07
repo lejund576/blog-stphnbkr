@@ -6,7 +6,7 @@ cover = ""
 description = ""
 tags = ["General", "Personal" ]
 toc = false
-draft = true 
+draft = false 
 +++
 
 #### _What is instore for the immediate future?_
