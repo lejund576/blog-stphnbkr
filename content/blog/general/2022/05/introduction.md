@@ -9,7 +9,7 @@ toc = false
 draft = false
 +++
 
-#### _I have a blog.. now what?_
+#### _I have a blog... now what?_
 _________________
 
 > "Hello World"

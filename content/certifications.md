@@ -12,6 +12,14 @@ Each table will be listed in alphabetical order and grouped by vendor. The overw
 &nbsp;
 _________________
 
+## Cato
+
+- #### CAA
+  - Certified Associate (SASE SD-WAN)
+
+&nbsp;
+_________________
+
 ## Cisco
 
 - #### CCENT
@@ -53,6 +61,9 @@ _________________
 
 - #### JNCIA
   - Junos Associate
+
+- #### JNCIS
+  - Service Provider Routing and Switching 
 
 &nbsp;
 _________________

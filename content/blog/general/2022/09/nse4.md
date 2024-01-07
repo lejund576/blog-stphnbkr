@@ -1,6 +1,6 @@
 +++
 title = "Fortinet NSE4"
-date = "2022-07-01"
+date = "2022-09-03"
 author = "Steve"
 cover = ""
 description = ""

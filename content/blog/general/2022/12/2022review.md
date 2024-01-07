@@ -87,5 +87,5 @@ In hindsight, it would have been an expensive (circa £15,000 over 2 years) jour
 ### Best of 2022
 
 + **Game:** Chess, FIFA 23
-+ **Movie:** Top Gun: Maverick (2022), Sound of Metal (2019)
-+ **Series:** Black Bird, Stranger Things
++ **Film:** Top Gun: Maverick (2022), Sound of Metal (2019)
++ **TV:** Black Bird, Stranger Things
