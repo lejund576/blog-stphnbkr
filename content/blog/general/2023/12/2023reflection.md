@@ -41,56 +41,102 @@ There is a certain prestige and mystique with any CCIE exam of being at the top 
 
 The total recorded hours are not specific to the CCIE pursuit, some statistics from the above table can be found below:
 
-- 1,227 hours equates to 23.6 hours per day for the year
+- **1,227** hours equates to 23.6 hours per day for the year
     - 7.01% of total study time for reading books
     - 21.92% of total study time for watching videos
     - 16.03% of total study time for workbook labs
-- 672 hours uncategorised falls into the below areas
+- **672** hours uncategorised falls into the below areas
     - Researching on learning how to learn 
     - Training courses
     - Webinars 
     - Creating Anki cards
     - Creating lab topologies and startup-configs in EVE-NG
     - Updating the hybrid tracker-planner spreadsheet 
-- 555 hours roughly spent focusing on the CCIE
+- **555** hours roughly spent focusing on the CCIE
 
 Most of the time, studying was done between 04:30 and 08:45 AM each morning. The framework is broken down into completing pre-planned tasks each day in order of the following priority: 
 
-> ```css 
+> ``` 
 > Labbing > Active Recall > Reading > Watching
 > ```
-
-option2
-
-```
-&nbsp;
-Labbing > Active Recall > Reading > Watching
-&nbsp;
-```
 
 If the planned tasks were complete for the day, I would use any spare time to review the Anki question cards, mostly built from the end-of-chapter quizzes in the books I've read. If the algorithm was up to date for the Q&A decks, time permitting, I would move on to the lab scheduling card decks to revisit labs from topics. 
 
 This time next year, the labbing hours will make up for most of the total hours, hopefully having successfully passed the lab exam. 
 
-## SUCCESSES
+&nbsp;
 
 #### Reading
+
+#### Certifications
+
+| Description | Result | Pass Date |
+|-------------|--------|------|
+| JNCIS | Juniper Service Provider Routing & Switching | 2023-02-04 | 
+| CAA | Cato Networks Certified Associated (SASE & SD-WAN) | 2023-10-17 |
+
+&nbsp;
 
 #### Courses 
 
 Listed alphabetically:
 
-+ 
++ Aruba Learning - Managed Cloud-Based Networks with Central (Rev 22.13)
++ Cisco Learning - ISE Troubleshooting: Part II (Rigo Villa) 
++ Cisco Learning - Introduction to 802.1X for Security Professionals 
++ Cisco Learning - MAC Authentication Bypass (MAB) in ISE 
++ Cisco Learning - Rev Up to Recert: DevNet Network Automation Essentials 
++ Cisco Learning - Rev Up to Recert: Python 
++ Cisco Learning - SD-WAN Application Aware Routing (AAR) and Application Pinning 
++ Cisco Learning - SD-WAN Direct Internet Access 
++ Cisco Learning - Security Networks with Firepower NGFW
++ O'Reilly - AWS Networking Essentials (Michael Shannon) 
++ O'Reilly - BGP Policies in Routed Networks (Russ White)
++ O'Reilly - How Routers Really Work (Russ White)
++ O'Reilly - How the Internet Really Works, Part 1 (Russ White)
++ O'Reilly - How the Internet Really Works, Part 2 (Russ White) 
++ O'Reilly - Real World Python by Example (Nick Russo) 
++ O'Reilly - Technical Writing Essentials (Nick Russo) 
 
-#### Certifications
+&nbsp;
 
-## FAILURES 
+#### Videos 
 
-## Best of 2023
++ [x] Aruba Learning - Managed Cloud-Based Networks with Central (Rev 22.13)
++ [x] Cisco Learning - ISE Troubleshooting: Part II 
++ [x] Cisco Learning - Introduction to 802.1X for Security Professionals 
++ [x] Cisco Learning - MAC Authentication Bypass (MAB) in ISE 
++ [x] Cisco Learning - Rev Up to Recert: DevNet Network Automation Essentials 
++ [x] Cisco Learning - Rev Up to Recert: Python 
++ [x] Cisco Learning - SD-WAN Application Aware Routing (AAR) and Application Pinning 
++ [x] Cisco Learning - SD-WAN Direct Internet Access 
++ [x] Cisco Learning - Security Networks with Firepower NGFW
++ [x] O'Reilly - AWS Networking Essentials 
++ [x] O'Reilly - BGP Policies in Routed Networks 
++ [x] O'Reilly - How Routers Really Work 
++ [x] O'Reilly - How the Internet Really Works, Part 1 
++ [x] O'Reilly - How the Internet Really Works, Part 2 
++ [x] O'Reilly - Real World Python by Example  
++ [x] O'Reilly - Technical Writing Essentials
++ [x] O'Reilly - Implementing Cisco SD-WAN for your Enterprise and Cloud 
++ [x] Skillshare - The Ultimate Guide to Anki 
++ [x] Skillshare - Technical Writing 
+
+
++ [ ] CBT - CCNP Enterprise (ENCOR) 
++ [x] CBT - CCDP ARCH (300-320)
++ [x] INE - CCIE Enterprise Infrastructure 1.0
++ [x] INE - CCIE R&S Advanced Technology Class 
++ [x] IPX - CCIE R&S v5.0
+
+
+&nbsp;
+
+## IMPROVEMENT 
+
+## MISC.
 
 + **Game:** Chess
 + **Film:** Oppenheimer, Killers of the Flower Moon, BlackBerry, Tetris 
 + **TV:** The Last of Us, Mare of Easttown
 
-
-## LOOKING AHEAD  
