@@ -5,7 +5,7 @@ author = "Steve"
 cover = ""
 description = ""
 tags = ["General", "Personal" ]
-toc = false
+toc = true
 draft = false
 +++
 
@@ -21,18 +21,33 @@ I started the year with the ambition to write a blog post each month to summaris
 + Knowledge vs Cognitive Process Dimensions
 + Artificial Intelligence for learning (GPT, Bard, Bing, etc.)
 
-After researching the above topics at varying lengths, I have formulated a framework for my learning approach towards the CCIE Enterprise Infrastructure certification. The true acid test on how valuable these methodologies are in terms of time efficiency, depth of understanding and ability to recall will be better understood after passing the lab exam.
+After researching the above topics at varying lengths, I have settled on a framework for my learning approach towards the CCIE Enterprise Infrastructure certification. The true acid test on how valuable these methodologies are in terms of time efficiency, depth of understanding and ability to recall will be better understood after passing the lab exam.
 
 There is a certain prestige and mystique with any CCIE exam of being at the top of the certification pyramid for a chosen discipline in the networking field. I have a different mindset towards this in which I believe that obtaining a CCIE is the starting point for the real learning to begin.
 
 ## TIME
 
+| Total | Value |
+|------|-------|
+| Study Time | 1,227 hours 10 minutes |
+| Books Completed | 5 | 
+| Pages Read | 3765 |
+| Reading Time | 85 hours 56 minutes |
+| Video Courses Completed | 5 | 
+| Videos Watched | 1215 | 
+| Watching Time | 269 hours 13 minutes | 
+| Labbing Time | 200 hours 15 minutes  | 
+| Labs Completed | 703 | 
 
+## SUCCESSES
 
-## MATERIAL
+## FAILURES 
 
-## TRAINING
+## Best of 2023
 
-## REVIEW
++ **Game:** Chess
++ **Film:** Oppenheimer, Killers of the Flower Moon, BladckBerry, Tetris 
++ **TV:** The Last of Us, Mare of Easttown
+
 
 ## LOOKING AHEAD  
