@@ -1,5 +1,5 @@
 +++
-title = "2023: Reflection"
+title = "2023 - Reflection"
 date = "2023-12-31"
 author = "Steve"
 cover = ""
@@ -45,14 +45,13 @@ The total recorded hours are not specific to the CCIE pursuit, some statistics f
     - 7.01% of total study time for reading books
     - 21.92% of total study time for watching videos
     - 16.03% of total study time for workbook labs
-- **672** hours uncategorised falls into the below areas
+- **672** hours not categorised will fall into the below areas
     - Researching on learning how to learn 
     - Training courses
     - Webinars 
     - Creating Anki cards
     - Creating lab topologies and startup-configs in EVE-NG
     - Updating the hybrid tracker-planner spreadsheet 
-- **555** hours roughly spent focusing on the CCIE
 
 Most of the time, studying was done between 04:30 and 08:45 AM each morning. The framework is broken down into completing pre-planned tasks each day in order of the following priority: 
 
@@ -66,18 +65,16 @@ This time next year, the labbing hours will make up for most of the total hours,
 
 &nbsp;
 
-#### Reading
-
-#### Certifications
+### CERTIFICATIONS 
 
 | Description | Result | Pass Date |
 |-------------|--------|------|
 | JNCIS | Juniper Service Provider Routing & Switching | 2023-02-04 | 
-| CAA | Cato Networks Certified Associated (SASE & SD-WAN) | 2023-10-17 |
+| CAA | Cato Networks Certified Associate (SASE & SD-WAN) | 2023-10-17 |
 
 &nbsp;
 
-#### Courses 
+### COURSES 
 
 Listed alphabetically:
 
@@ -100,41 +97,29 @@ Listed alphabetically:
 
 &nbsp;
 
-#### Videos 
+### READING 
 
-+ [x] Aruba Learning - Managed Cloud-Based Networks with Central (Rev 22.13)
-+ [x] Cisco Learning - ISE Troubleshooting: Part II 
-+ [x] Cisco Learning - Introduction to 802.1X for Security Professionals 
-+ [x] Cisco Learning - MAC Authentication Bypass (MAB) in ISE 
-+ [x] Cisco Learning - Rev Up to Recert: DevNet Network Automation Essentials 
-+ [x] Cisco Learning - Rev Up to Recert: Python 
-+ [x] Cisco Learning - SD-WAN Application Aware Routing (AAR) and Application Pinning 
-+ [x] Cisco Learning - SD-WAN Direct Internet Access 
-+ [x] Cisco Learning - Security Networks with Firepower NGFW
-+ [x] O'Reilly - AWS Networking Essentials 
-+ [x] O'Reilly - BGP Policies in Routed Networks 
-+ [x] O'Reilly - How Routers Really Work 
-+ [x] O'Reilly - How the Internet Really Works, Part 1 
-+ [x] O'Reilly - How the Internet Really Works, Part 2 
-+ [x] O'Reilly - Real World Python by Example  
-+ [x] O'Reilly - Technical Writing Essentials
-+ [x] O'Reilly - Implementing Cisco SD-WAN for your Enterprise and Cloud 
-+ [x] Skillshare - The Ultimate Guide to Anki 
-+ [x] Skillshare - Technical Writing 
+I have loosely been following the recommended reading list from Brian McGahan, which was found as part of the introduction when watching the INE CCIE R&S Advanced Technology Class. The list below is in the order they were read.
 
-
-+ [ ] CBT - CCNP Enterprise (ENCOR) 
-+ [x] CBT - CCDP ARCH (300-320)
-+ [x] INE - CCIE Enterprise Infrastructure 1.0
-+ [x] INE - CCIE R&S Advanced Technology Class 
-+ [x] IPX - CCIE R&S v5.0
+- Cisco LAN Switching _(Kennedy Clark, Kevin Hamilton)_
+- Your CCIE Lab Success Strategy _(Dean Bahizad, Vivek Tiwari)_
+- Routing TCP/IP Volume 1 _(Jeff Doyle, Jennifer Carroll)_
+- Routing TCP/IP Volume 2 _(Jeff Doyle, Jennifer Carroll)_
+- Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protoclls _(Alex Zinin)_
 
 
 &nbsp;
 
-## IMPROVEMENT 
+### VIDEOS 
 
-## MISC.
++ CBT - CCDP ARCH (300-320)
++ INE - CCIE Enterprise Infrastructure 1.0
++ INE - CCIE R&S Advanced Technology Class 
+
+
+&nbsp;
+
+## MISCELLANEOUS
 
 + **Game:** Chess
 + **Film:** Oppenheimer, Killers of the Flower Moon, BlackBerry, Tetris 
