@@ -41,18 +41,18 @@ There is a certain prestige and mystique with any CCIE exam of being at the top 
 
 Some statistics from the above table:
 
-- 1227 hours equates to 23.6 hours per day for the year
+- 1,227 hours equates to 23.6 hours per day for the year
     - 7.01% of total study time for reading books
     - 21.92% of total study time for watching videos
     - 16.03% of total study time for workbook labs
-- 672 hours uncategorised falls in to the below areas
+- 672 hours uncategorised falls into the below areas
     - Researching on learning how to learn 
     - Training courses
     - Webinars 
     - Creating Anki cards
-    - Updating hyprid tracker-planner spreadsheet 
+    - Updating the hybrid tracker-planner spreadsheet 
 
-Majority of the time studying was done between 04:30 - 08:45 AM each morning. The frame work is broken down into completing pre-planned tasks each day in order of priority of: 
+Most of the time, studying was done between 04:30 and 08:45 AM each morning. The framework is broken down into completing pre-planned tasks each day in order of the following priority: 
 
 ```Labbing > Active Recall > Reading > Watching```
 
@@ -63,6 +63,10 @@ Majority of the time studying was done between 04:30 - 08:45 AM each morning. Th
 #### Reading
 
 #### Courses 
+
+Listed alphabetically:
+
++ 
 
 #### Certifications
 
