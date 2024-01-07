@@ -1,5 +1,5 @@
 +++
-title = "2023 Reflection"
+title = "2023: Reflection"
 date = "2023-12-31"
 author = "Steve"
 cover = ""
