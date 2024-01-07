@@ -25,8 +25,8 @@ paginate = 5
   [languages.en]
     title = "Stephen Baker"
     subtitle = "A Networking blog"
-    keywords = "ccie"
-    copyright = "© 2022 | stphnbkr.com "
+    keywords = "ccie, ccie blog, networking blog, stephen baker"
+    copyright = "© 2022-2024 | stphnbkr.com "
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
