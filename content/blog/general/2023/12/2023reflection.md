@@ -50,6 +50,7 @@ Some statistics from the above table:
     - Training courses
     - Webinars 
     - Creating Anki cards
+    - Creating lab topologies and startup-configs in EVE-NG
     - Updating the hybrid tracker-planner spreadsheet 
 
 Most of the time, studying was done between 04:30 and 08:45 AM each morning. The framework is broken down into completing pre-planned tasks each day in order of the following priority: 
