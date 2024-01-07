@@ -25,7 +25,7 @@ After researching the above topics at varying lengths, I have settled on a frame
 
 There is a certain prestige and mystique with any CCIE exam of being at the top of the certification pyramid for a chosen discipline in the networking field. I have a different mindset towards this in which I believe that obtaining a CCIE is the starting point for the real learning to begin.
 
-## TIME
+### TIME
 
 | Total | Value |
 |------|-------|
@@ -105,7 +105,7 @@ I have loosely been following the recommended reading list from Brian McGahan, w
 - Your CCIE Lab Success Strategy _(Dean Bahizad, Vivek Tiwari)_
 - Routing TCP/IP Volume 1 _(Jeff Doyle, Jennifer Carroll)_
 - Routing TCP/IP Volume 2 _(Jeff Doyle, Jennifer Carroll)_
-- Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protoclls _(Alex Zinin)_
+- Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols _(Alex Zinin)_
 
 
 &nbsp;
