@@ -5,8 +5,8 @@ author = "Steve"
 cover = ""
 description = ""
 tags = ["General", "Personal" ]
-toc = true
-draft = false
+toc = false
+draft = true
 +++
 
 Future goals would be to isolate my focus on the macro goal of sitting the CCIE lab. I frequently keep veering away through different distractions. There are a handful of reasons for this, but the main two that I bounce between are learning how to learn and work-related conundrums on non-Cisco hardware. 
