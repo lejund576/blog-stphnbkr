@@ -29,7 +29,7 @@ There is a certain prestige and mystique with any CCIE exam of being at the top 
 
 &nbsp;
 
-## TIME
+## Time
 
 | Total | Value |
 |------|-------|
