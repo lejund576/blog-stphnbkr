@@ -90,7 +90,7 @@ The next book I will read is **[Developing IP Multicast Networks](https://www.go
 
 ## CHECKLIST
 
-- 2023-01-07 : Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
+1. ```2023-01-07``` Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
 
 
 
