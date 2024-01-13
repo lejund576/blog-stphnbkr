@@ -6,7 +6,7 @@ cover = ""
 description = ""
 tags = ["ccie", "ccie-ei" ]
 toc = false
-draft = true
+draft = false
 +++
 
 ## TIME
