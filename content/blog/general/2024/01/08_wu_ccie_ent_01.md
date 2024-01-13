@@ -30,6 +30,8 @@ New Year's Day, a bank holiday here in England, allowed me to overachieve the 25
 
 ## FOCUS 
 
+Below are the core focus areas where I endeavour to hit one of the four sections each day. Other work will have been done if additional time becomes available, for example, while commuting or on lunch break at work. Different tasks include but are not limited to, flashcards, interleaving previous labs, reviewing notes, and researching available study materials for upcoming topics and weak areas.
+
 ```YAML
 | LABBING 
 ___________________________________________________________________________________________________
@@ -67,9 +69,6 @@ ________________________________________________________________________________
 # INE CCIE R&S ATC: MPLS (Layer 3 VPN Overview)
 # INE CCIE R&S ATC: MPLS (Layer 3 VPN Configuration)
 ```
-{{< notice info >}}
-_NOTE: These are the core focus areas where I endeavour to hit one of the four sections each day. Other work will have been done if additional time becomes available, for example, while commuting or on lunch break at work. Different tasks include but are not limited to, flashcards, interleaving previous labs, reviewing notes, and researching available study materials for upcoming topics and weak areas._
-{{< /notice >}}
 
 &nbsp;
 
@@ -90,7 +89,7 @@ The next book I will read is **[Developing IP Multicast Networks](https://www.go
 
 ## CHECKLIST
 
-- [x] **2023-01-07 :** Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
+[x] **2023-01-07 :** Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
 
 
 
