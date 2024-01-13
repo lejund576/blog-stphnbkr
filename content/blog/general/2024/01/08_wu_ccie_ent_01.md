@@ -23,10 +23,9 @@ _________________
  
 **Yearly total study time:** 31 hours 40 minutes 
 
+&nbsp;
 
 New Year's Day, a bank holiday here in England, allowed me to overachieve the 25 hours per week target. 
-
-&nbsp;
 
 ## FOCUS 
 
