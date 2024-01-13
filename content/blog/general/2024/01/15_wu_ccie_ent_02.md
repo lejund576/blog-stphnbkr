@@ -21,6 +21,10 @@ draft = false
 
 ## FOCUS 
 
+Below are the core focus areas where I endeavour to hit one of the four sections each day. Other work will have been done if additional time becomes available, for example, while commuting or on lunch break at work. Different tasks include but are not limited to, flashcards, interleaving previous labs, reviewing notes, and researching available study materials for upcoming topics and weak areas.
+
+&nbsp;
+
 ```YAML
 | LABBING 
 ___________________________________________________________________________________________________
@@ -60,8 +64,6 @@ ________________________________________________________________________________
 # INE CCIE R&S ATC: MPLS (Layer 3 VPN PE-CE Routing with BGP)
 # INE CCIE R&S ATC: MPLS (Multipath for MPLS L3VPN)
 ```
-##### _NOTE: These are the core focus areas where I endeavour to hit one of the four sections each day. Other work will have been done if additional time becomes available, for example, while commuting or on lunch break at work. Different tasks include but are not limited to, flashcards, interleaving previous labs, reviewing notes, and researching available study materials for upcoming topics and weak areas._
-
 &nbsp;
 
 ## SUMMARY 

@@ -71,7 +71,6 @@ ________________________________________________________________________________
 # INE CCIE R&S ATC: MPLS (Layer 3 VPN Overview)
 # INE CCIE R&S ATC: MPLS (Layer 3 VPN Configuration)
 ```
-
 &nbsp;
 
 ## SUMMARY 
