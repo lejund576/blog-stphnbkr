@@ -1,6 +1,6 @@
 +++
 title = "Weekly Update 01: CCIE"
-date = "2024-01-07"
+date = "2024-01-08"
 author = "Steve"
 cover = ""
 description = ""
@@ -17,7 +17,7 @@ _________________
 
 ## TIME
 
-**Study time last week:** 20 hours 
+**Study time last week:** ```n/a```
 
 **Study time this week:** 31 hours 40 minutes
  
@@ -68,9 +68,7 @@ ________________________________________________________________________________
 # INE CCIE R&S ATC: MPLS (Layer 3 VPN Configuration)
 ```
 
-###### _NOTE: These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._
-
-&nbsp;
+##### _NOTE: These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._
 
 ## SUMMARY 
 

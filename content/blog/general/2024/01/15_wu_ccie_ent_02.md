@@ -61,7 +61,7 @@ ________________________________________________________________________________
 # INE CCIE R&S ATC: MPLS (Multipath for MPLS L3VPN)
 ```
 
-###### _NOTE: These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._
+##### _NOTE: These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._
 
 ## SUMMARY 
 
