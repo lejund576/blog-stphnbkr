@@ -13,6 +13,7 @@ Happy New Year. I aim to write a short blog post each week to review my progress
 
 These posts will track my studying time, the different areas covered, the resources used, and a summary of how well I digested the content. 
 
+&nbsp;
 _________________
 
 ## TIME
@@ -23,13 +24,11 @@ _________________
  
 **Yearly total study time:** 31 hours 40 minutes 
 
-| Study Time         | Hours |
-|:-----------|:----------------------------:|
-| **Last week** | ```n/a``` |
-| **This week** | 31 hours 40 minutes  |
-| **Yearly total** | 31 hours 40 minutes |
-
-
+> | Study Time         | Hours |
+> |:-----------|:----------------------------|
+> | **Last week** | ```n/a``` |
+> | **This week** | 31 hours 40 minutes  |
+> | **Yearly total** | 31 hours 40 minutes |
 
 New Year's Day, a bank holiday here in England, allowed me to overachieve the 25 hours per week target. 
 
