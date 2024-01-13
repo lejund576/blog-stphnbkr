@@ -11,11 +11,11 @@ draft = false
 
 ## TIME
 
-**Study time last week:** 31 hours 40 minutes
-
-**Study time this week:** ```tbc```
- 
-**Yearly total study time:** 31 hours 40 minutes 
+| Study Time     | Hours               |
+|:---------------|:--------------------|
+| **Last week**  | 31 hours 40 minutes |
+| **This week**  | ```tbc```           |
+| **2024 total** | 31 hours 40 minutes |
 
 &nbsp;
 

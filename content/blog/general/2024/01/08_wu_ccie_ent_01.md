@@ -18,17 +18,11 @@ _________________
 
 ## TIME
 
-**Study time last week:** ```n/a```
-
-**Study time this week:** 31 hours 40 minutes
- 
-**Yearly total study time:** 31 hours 40 minutes 
-
-> | Study Time         | Hours |
-> |:-----------|:----------------------------|
-> | **Last week** | ```n/a``` |
-> | **This week** | 31 hours 40 minutes  |
-> | **Yearly total** | 31 hours 40 minutes |
+| Study Time     | Hours               |
+|:---------------|:--------------------|
+| **Last week**  | ```n/a```           |
+| **This week**  | 31 hours 40 minutes |
+| **2024 total** | 31 hours 40 minutes |
 
 New Year's Day, a bank holiday here in England, allowed me to overachieve the 25 hours per week target. 
 
