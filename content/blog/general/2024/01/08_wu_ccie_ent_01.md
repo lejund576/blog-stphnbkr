@@ -26,6 +26,8 @@ _________________
 
 New Year's Day, a bank holiday here in England, allowed me to overachieve the 25 hours per week target. 
 
+&nbsp;
+
 ## FOCUS 
 
 ```YAML
@@ -65,7 +67,7 @@ ________________________________________________________________________________
 # INE CCIE R&S ATC: MPLS (Layer 3 VPN Overview)
 # INE CCIE R&S ATC: MPLS (Layer 3 VPN Configuration)
 ```
-##### _NOTE: These are the core focus areas where I endeavour to hit one of the four sections each day. Other work will have been done if additional time becomes available, for example, while commuting or on lunch break at work. Different tasks include but are not limited to, flashcards, interleaving previous labs, reviewing notes, and researching available study materials for upcoming topics and weak areas._
+_NOTE: These are the core focus areas where I endeavour to hit one of the four sections each day. Other work will have been done if additional time becomes available, for example, while commuting or on lunch break at work. Different tasks include but are not limited to, flashcards, interleaving previous labs, reviewing notes, and researching available study materials for upcoming topics and weak areas._
 
 &nbsp;
 
