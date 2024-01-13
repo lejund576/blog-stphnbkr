@@ -21,6 +21,7 @@ draft = false
 
 ## FOCUS 
 
+```diff
 ***Labbing***
 : INE CCIE R&S ATC: Foundation Lab #1 (Section 1-4: LAN, WAN, IGP)
 : INE CCIE R&S ATC: Foundation Lab #1 (Section 5-7: Exterior Routing, DMVPN, IPv6)
@@ -54,21 +55,13 @@ draft = false
 : INE CCIE R&S ATC: MPLS (Layer 3 VPN PE-CE Routing with OSPF)
 : INE CCIE R&S ATC: MPLS (Layer 3 VPN PE-CE Routing with BGP)
 : INE CCIE R&S ATC: MPLS (Multipath for MPLS L3VPN)
+```
 
 ###### _NOTE: These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._
 
 ## SUMMARY 
 
-I finished reading **[Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols](https://www.goodreads.com/book/show/6327824-cisco-ip-routing)** by Alex Zinin. Some of the content is a little dated, but it is one of the better books I've read; the following chapters were the most useful: 
-
-+ Ch. 3 - Routing and Forwarding Processes
-+ Ch. 4 - Routing Table Maintenance 
-+ Ch. 5 - Packet Forwarding
-+ Ch. 9 - Link-State Routing Protocols 
-
-It was interesting to read about the low-level details on the routing table hierarchy, particularly with examples of how certain functions are called to install routes with references to the underlying IOS code syntax. This is more detail than is needed for the CCIE lab but it will help with the bigger picture long term. 
-
-The next book I will read is **[Developing IP Multicast Networks](https://www.goodreads.com/book/show/583421.Developing_Ip_Multicast_Networks)** by Beau Williamson. This should be a shorter read as some chapters cover topics that aren't part of the blueprint or used in the real world. For example, DVMRP, MOSPF, and ATM Networks. 
+```tbc```
 
 &nbsp;
 
