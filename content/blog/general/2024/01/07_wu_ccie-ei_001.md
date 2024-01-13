@@ -1,12 +1,12 @@
 +++
-title = "Weekly Update 001: CCIE"
+title = "Weekly Update 01: CCIE"
 date = "2024-01-07"
 author = "Steve"
 cover = ""
 description = ""
 tags = ["ccie", "ccie-ei" ]
 toc = false
-draft = false
+draft = true
 +++
 
 Happy New Year. I aim to write a short blog post each week to review my progress towards the CCIE. 
