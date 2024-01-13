@@ -74,8 +74,8 @@ ________________________________________________________________________________
 
 ## CHECKLIST
 
-- [x] **2023-01-07 :** Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
-- [x] **2023-01-08 :** INE CCIE R&S Advanced Technology Labs Workbook
-- [x] **2023-01-09 :** INE CCIE R&S Foundation Lab #1
-- [x] **2023-01-11 :** INE CCIE R&S Foundation Lab #2
-- [x] **2023-01-14 :** INE CCIE R&S Foundation Lab #3
+```2023-01-07``` ```book``` Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
+```2023-01-08``` ```labs``` INE CCIE R&S Advanced Technology Labs Workbook
+```2023-01-09``` ```labs``` INE CCIE R&S Foundation Lab #1
+```2023-01-11``` ```labs``` INE CCIE R&S Foundation Lab #2
+```2023-01-14``` ```labs``` INE CCIE R&S Foundation Lab #3
