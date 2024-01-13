@@ -34,15 +34,13 @@ A lot of my time is recorded in my calendar but has yet to fall into a category 
 + Researching and setting up Anki
 + Developing my 'hybrid tracker-planner'
 
-## Successes
-
-### Exams
+## Exams
 | Description | Result | Pass Date |
 |-------------|--------|------|
 | JNCIA | Juniper Networks Certified Associate | 2022-03-05 | 
 | NSE4 | Fortinet Network Security Professional | 2022-09-03 | 
 
-### Courses 
+## Courses 
 
 Listed alphabetically:
 

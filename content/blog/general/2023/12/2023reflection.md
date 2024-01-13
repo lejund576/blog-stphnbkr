@@ -29,7 +29,7 @@ There is a certain prestige and mystique with any CCIE exam of being at the top 
 
 &nbsp;
 
-### TIME
+## TIME
 
 | Total | Value |
 |------|-------|
@@ -76,7 +76,7 @@ This time next year, the labbing hours will make up for most of the total hours,
 
 &nbsp;
 
-### CERTIFICATIONS 
+## Certifications 
 
 | Description | Result | Pass Date |
 |-------------|--------|------|
@@ -85,7 +85,7 @@ This time next year, the labbing hours will make up for most of the total hours,
 
 &nbsp;
 
-### COURSES 
+## Courses 
 
 Listed alphabetically:
 
@@ -108,7 +108,7 @@ Listed alphabetically:
 
 &nbsp;
 
-### READING 
+## Reading 
 
 I have loosely been following the recommended reading list from Brian McGahan, which was found as part of the introduction when watching the INE CCIE R&S Advanced Technology Class. The list below is in the order they were read.
 
@@ -121,7 +121,7 @@ I have loosely been following the recommended reading list from Brian McGahan, w
 
 &nbsp;
 
-### VIDEOS 
+## Videos 
 
 + CBT - CCDP ARCH (300-320)
 + INE - CCIE Enterprise Infrastructure 1.0
@@ -130,7 +130,7 @@ I have loosely been following the recommended reading list from Brian McGahan, w
 
 &nbsp;
 
-### BEST OF
+## Best of 2023
 
 + **Game:** Chess
 + **Film:** Oppenheimer, Killers of the Flower Moon, BlackBerry, Tetris 
