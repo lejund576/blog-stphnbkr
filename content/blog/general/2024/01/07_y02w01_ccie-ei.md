@@ -23,10 +23,10 @@ _________________
  
 **Yearly total study time:** 31 hours 40 minutes 
 
-&nbsp;
 
 New Year's Day, a bank holiday here in England, allowed me to overachieve the 25 hours per week target. 
 
+&nbsp;
 
 ## FOCUS 
 
@@ -47,6 +47,34 @@ New Year's Day, a bank holiday here in England, allowed me to overachieve the 25
 
 **Videos**
 : INE CCIE R&S ATC - MPLS
+
+> **Labbing**
+> : INE CCIE R&S ATC - VPN Section 
+> 
+> **Active Recall**
+> : IGP Route Redistribution, Summarisation, Default Routing and Troubleshooting
+> 
+> **Reading**
+> : Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols (Ch. 10 Enhanced IGRP)
+> 
+> **Videos**
+> : INE CCIE R&S ATC - MPLS
+
+
+```markdown
+**Labbing**
+: INE CCIE R&S ATC - VPN Section 
+
+**Active Recall**
+: IGP Route Redistribution, Summarisation, Default Routing and Troubleshooting
+
+**Reading**
+: Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols (Ch. 10 Enhanced IGRP)
+
+**Videos**
+: INE CCIE R&S ATC - MPLS
+```
+
 
 
 **NOTE:** _These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._ 
