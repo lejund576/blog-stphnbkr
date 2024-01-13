@@ -27,7 +27,6 @@ _________________
 
 New Year's Day, a bank holiday here in England, allowed me to overachieve the 25 hours per week target. 
 
-&nbsp;
 
 ## FOCUS 
 
@@ -37,20 +36,20 @@ New Year's Day, a bank holiday here in England, allowed me to overachieve the 25
 + **READ:** Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols (Ch. 10 Enhanced IGRP)
 + **WATCH:** INE CCIE R&S ATC - MPLS
 
-Labbing
+**Labbing**
 : INE CCIE R&S ATC - VPN Section 
 
-Active Recall
+**Active Recall**
 : IGP Route Redistribution, Summarisation, Default Routing and Troubleshooting
 
-Reading
+**Reading**
 : Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols (Ch. 10 Enhanced IGRP)
 
-Videos
+**Videos**
 : INE CCIE R&S ATC - MPLS
 
 
-**NOTE:** _These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics. 
+**NOTE:** _These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._ 
 
 
 &nbsp;
@@ -73,7 +72,7 @@ The next book I will read is **[Developing IP Multicast Networks](https://www.go
 
 ## CHECKLIST
 
-- [x] 2023-01-07 : Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
+- [x] **2023-01-07 :** Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
 
 
 

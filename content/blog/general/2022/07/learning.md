@@ -21,4 +21,6 @@ Throughout my chosen career, acquiring different certifications, while not neces
 >
 > **- Warren Buffett**
 
-My mindset changed from going through the motions of almost cramming enough information in readiness for an exam to wanting to understand and retain information for future applications in my working life. Climbing the certification pyramid resulted in progression in my career, going from roles in support and operations to engineering and design. As I progressed, there was more of a requirement to learn on the job proactively. This helped me develop more self-awareness. I realised that I tended to deep dive unnecessarily in some cases and the Nth degree of detail was not always needed.
+My mindset changed from going through the motions of almost cramming enough information in readiness for an exam to wanting to understand and retain information for future applications in my working life. Climbing the certification pyramid resulted in progression in my career, going from roles in support and operations to engineering and design. 
+
+As I progressed, there was more of a requirement to learn on the job proactively. This helped me develop more self-awareness, meaning I now had a baseline understanding of what materials I would need to look for as aids to learn on the job more quickly. I realised that I tended to deep dive unnecessarily in some cases, and the Nth degree of detail was not always needed.
