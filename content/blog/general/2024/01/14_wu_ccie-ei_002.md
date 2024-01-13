@@ -9,8 +9,6 @@ toc = false
 draft = false
 +++
 
-_________________
-
 ## TIME
 
 **Study time last week:** 31 hours 40 minutes
