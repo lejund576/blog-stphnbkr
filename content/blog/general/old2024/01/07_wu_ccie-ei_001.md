@@ -59,7 +59,6 @@ I finished reading **[Cisco IP Routing: Packet Forwarding and Intra-domain Routi
 It was interesting to read about the low-level details on the routing table hierarchy, particularly with examples of how certain functions are called to install routes with references to the underlying IOS code syntax. This is more detail than is needed for the CCIE lab but it will help with the bigger picture long term. 
 
 The next book I will read is **[Developing IP Multicast Networks](https://www.goodreads.com/book/show/583421.Developing_Ip_Multicast_Networks)** by Beau Williamson. This should be a shorter read as some chapters cover topics that aren't part of the blueprint or used in the real world. For example, DVMRP, MOSPF, and ATM Networks. 
-z
 
 &nbsp;
 
