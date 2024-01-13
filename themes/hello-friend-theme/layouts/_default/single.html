@@ -75,7 +75,7 @@
         {{ if ne .Params.Toc false }}
         <div class="wrap-collabsible table-of-contents">
           <input id="collapsible" class="toggle" type="checkbox">
-          <label for="collapsible" class="lbl-toggle"><h2>Contents</h2></label>
+          <label for="collapsible" class="lbl-toggle"><h3>Contents</h3></label>
           <div class="collapsible-content">
             <div class="content-inner">
               {{ .TableOfContents }}
@@ -96,7 +96,7 @@
             <hr />
           </div>
           <div class="pagination__buttons">
-            {{ if .NextInSection }}
+            {{ if .PrevInSection }}
               <span class="button previous">
                 <a href="{{ .PrevInSection.Permalink }}">
                   <span class="button__icon">←</span>
@@ -104,7 +104,7 @@
                 </a>
               </span>
             {{ end }}            
-            {{ if .PrevInSection }}
+            {{ if .NextInSection }}
               <span class="button next">
                 <a href="{{ .NextInSection.Permalink }}">
                   <span class="button__text">{{ .NextInSection.Title }}</span>
