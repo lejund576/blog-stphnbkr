@@ -130,7 +130,7 @@ I have loosely been following the recommended reading list from Brian McGahan, w
 
 &nbsp;
 
-### MISCELLANEOUS
+### BEST OF
 
 + **Game:** Chess
 + **Film:** Oppenheimer, Killers of the Flower Moon, BlackBerry, Tetris 
