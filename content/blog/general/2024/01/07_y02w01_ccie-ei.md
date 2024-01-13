@@ -1,5 +1,5 @@
 +++
-title = "Weekly Update: CCIE #01"
+title = "Weekly Update #001: CCIE"
 date = "2024-01-07"
 author = "Steve"
 cover = ""
@@ -30,12 +30,6 @@ New Year's Day, a bank holiday here in England, allowed me to overachieve the 25
 
 ## FOCUS 
 
-
-+ **LABS:** INE CCIE R&S ATC - VPN Section 
-+ **AR:** IGP Route Redistribution, Summarisation, Default Routing and Troubleshooting
-+ **READ:** Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols (Ch. 10 Enhanced IGRP)
-+ **WATCH:** INE CCIE R&S ATC - MPLS
-
 **Labbing**
 : INE CCIE R&S ATC - VPN Section 
 
@@ -48,67 +42,8 @@ New Year's Day, a bank holiday here in England, allowed me to overachieve the 25
 **Videos**
 : INE CCIE R&S ATC - MPLS
 
-> **Labbing**
-> : INE CCIE R&S ATC - VPN Section 
-> 
-> **Active Recall**
-> : IGP Route Redistribution, Summarisation, Default Routing and Troubleshooting
-> 
-> **Reading**
-> : Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols (Ch. 10 Enhanced IGRP)
-> 
-> **Videos**
-> : INE CCIE R&S ATC - MPLS
 
-
-```md
-**Labbing**
-: INE CCIE R&S ATC - VPN Section 
-
-**Active Recall**
-: IGP Route Redistribution, Summarisation, Default Routing and Troubleshooting
-
-**Reading**
-: Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols (Ch. 10 Enhanced IGRP)
-
-**Videos**
-: INE CCIE R&S ATC - MPLS
-```
-
-
-{{< tabs >}}
-{{% tab name="python" %}}
-```python
-print("Hello World!")
-```
-{{% /tab %}}
-{{% tab name="R" %}}
-```R
-> print("Hello World!")
-```
-{{% /tab %}}
-{{% tab name="Bash" %}}
-```Bash
-echo "Hello World!"
-```
-{{% /tab %}}
-{{< /tabs >}}
-
-
-**NOTE:** _These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._ 
-
-{{< notice note >}}
-These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics.
-{{< /notice >}}
-
-{{< notice info >}}
-These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics.
-{{< /notice >}}
-
-{{< notice tip >}}
-These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics.
-{{< /notice >}}
-
+###### _**NOTE:** These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics.
 
 &nbsp;
 
