@@ -43,7 +43,7 @@ New Year's Day, a bank holiday here in England, allowed me to overachieve the 25
 : INE CCIE R&S ATC - MPLS
 
 
-###### _**NOTE:** These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics.
+###### NOTE: _These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._
 
 &nbsp;
 
