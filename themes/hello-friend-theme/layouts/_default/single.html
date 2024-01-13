@@ -107,8 +107,8 @@
             {{ if .NextInSection }}
               <span class="button previous">
                 <a href="{{ .NextInSection.Permalink }}">
+                  <span class="button__text">{{ .NextInSection.Title }}</span>                  
                   <span class="button__icon">←</span>
-                  <span class="button__text">{{ .NextInSection.Title }}</span>
                 </a>
               </span>
             {{ end }}
@@ -116,7 +116,7 @@
         </div>
       {{ end }}
     {{ end }}
-    
+
 
     {{ if or .Params.showContactForm $.Site.Params.showContactForm }}
       {{ if ne .Params.showContactForm false }}
