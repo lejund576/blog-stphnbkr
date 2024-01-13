@@ -4,7 +4,7 @@ date = "2024-01-13"
 author = "Steve"
 cover = ""
 description = ""
-tags = ["Networking", "CCIE-EI" ]
+tags = ["Cisco", "CCIE-EI" ]
 toc = false
 draft = false
 +++
