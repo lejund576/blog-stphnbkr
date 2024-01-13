@@ -1,6 +1,6 @@
 +++
 title = "Moving forward"
-date = "2024-01-07"
+date = "2024-01-02"
 author = "Steve"
 cover = ""
 description = ""
