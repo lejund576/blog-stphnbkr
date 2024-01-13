@@ -13,13 +13,14 @@ Happy New Year. I aim to write a short blog post each week to review my progress
 
 These posts will track my studying time, the different areas covered, the resources used, and a summary of how well I digested the content. 
 
-&nbsp;
 _________________
 
 ## TIME
 
-**Study time this week:** 31 hours 40 minutes 
 **Study time last week:** 20 hours 
+
+**Study time this week:** 31 hours 40 minutes
+ 
 **Yearly total study time:** 31 hours 40 minutes 
 
 New Year's Day, a bank holiday here in England, allowed me to overachieve the 25 hours per week target. 
@@ -28,12 +29,12 @@ New Year's Day, a bank holiday here in England, allowed me to overachieve the 25
 
 ## FOCUS 
 
-> ```
-> + **LABS:** INE CCIE R&S ATC - VPN Section 
-> + **AR:** IGP Route Redistribution, Summarisation, Default Routing and Troubleshooting
-> + **READ:** Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols (Ch. 10 Enhanced IGRP)
-> + **WATCH:** INE CCIE R&S ATC - MPLS
-> ```
+
++ **LABS:** INE CCIE R&S ATC - VPN Section 
++ **AR:** IGP Route Redistribution, Summarisation, Default Routing and Troubleshooting
++ **READ:** Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols (Ch. 10 Enhanced IGRP)
++ **WATCH:** INE CCIE R&S ATC - MPLS
+
 
 &nbsp;
 
@@ -55,7 +56,7 @@ The next book I will read is **[Developing IP Multicast Networks]**(https://www.
 
 ## CHECKLIST
 
-[x] 2023-01-07 : Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
+- [x] 2023-01-07 : Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols
 
 
 
