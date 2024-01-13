@@ -69,6 +69,9 @@ ________________________________________________________________________________
 
 ##### _NOTE: These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._
 
+
+##### _NOTE: These are the core focus areas where I endeavour to hit one of the four sections each day. Other work will have been done if additional time becomes available, for example, while commuting or on lunch break at work. Different tasks include but are not limited to, flashcards, interleaving previous labs, reviewing notes, and researching available study materials for upcoming topics and weak areas._
+
 ## SUMMARY 
 
 I finished reading **[Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols](https://www.goodreads.com/book/show/6327824-cisco-ip-routing)** by Alex Zinin. Some of the content is a little dated, but it is one of the better books I've read; the following chapters were the most useful: 
