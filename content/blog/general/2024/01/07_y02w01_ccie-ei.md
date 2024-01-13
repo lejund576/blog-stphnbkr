@@ -61,7 +61,7 @@ New Year's Day, a bank holiday here in England, allowed me to overachieve the 25
 > : INE CCIE R&S ATC - MPLS
 
 
-```markdown
+```md
 **Labbing**
 : INE CCIE R&S ATC - VPN Section 
 
@@ -76,8 +76,38 @@ New Year's Day, a bank holiday here in England, allowed me to overachieve the 25
 ```
 
 
+{{< tabs >}}
+{{% tab name="python" %}}
+```python
+print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="R" %}}
+```R
+> print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="Bash" %}}
+```Bash
+echo "Hello World!"
+```
+{{% /tab %}}
+{{< /tabs >}}
+
 
 **NOTE:** _These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics._ 
+
+{{< notice note >}}
+These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics.
+{{< /notice >}}
+
+{{< notice info >}}
+These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics.
+{{< /notice >}}
+
+{{< notice tip >}}
+These are the core focus areas, other work will have been done for example flash cards, interleaving labs that have already been completed, and researching study materials for upcoming topics.
+{{< /notice >}}
 
 
 &nbsp;
