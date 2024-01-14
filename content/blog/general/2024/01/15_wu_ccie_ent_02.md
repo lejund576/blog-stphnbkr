@@ -1,6 +1,6 @@
 +++
 title = "Weekly Update 02: CCIE"
-date = "2024-01-13"
+date = "2024-01-15"
 author = "Steve"
 cover = ""
 description = ""
