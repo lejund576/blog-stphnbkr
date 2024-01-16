@@ -14,8 +14,8 @@ draft = false
 | Study Time     | Hours               |
 |:---------------|:--------------------|
 | **Last week**  | 31 hours 40 minutes |
-| **This week**  | ```tbc```           |
-| **2024 total** | 31 hours 40 minutes |
+| **This week**  | 33 hours 45 minutes |
+| **2024 total** | 65 hours 25 minutes |
 
 &nbsp;
 
@@ -68,7 +68,11 @@ ________________________________________________________________________________
 
 ## SUMMARY 
 
-```tbc```
+I had some issues with redistribution on the INE Foundation Lab #3. The task had multiple redistribution points and a routing loop issue. I had to look up the answers for the task in the workbook, but when applying the correct configuration, I could still observe the problem. Clearing the routing table (```clear ip route *```) on all routers allowed for the MP-BGP loopbacks to come up, but only temporarily. I don't know if this is an EVE-NG thing or the order of operations when applying the configuration.
+
+The Developing IP Multicast Networks book has been an easy read so far over the first two chapters. The total reading time is 3 hours and 11 minutes so far. 
+
+I need to improve on the Active Recall topics. This is the book's last chapter (OCG CCIE R&S v5.0, Vol 1), and I think I will cover SD-WAN material before moving on to OCG CCIE R&S v5.0 Volume 2.  
 
 &nbsp;
 
