@@ -43,7 +43,7 @@ ________________________________________________________________________________
 # AR - IGP Performance Routing (PfR)
 # AR - IGP Troubleshooting Complex Layer 3 Issues
 # AR - IGP Troubleshooting Process Methodology
-# AR - IGP Troubleshooting Commands and IP Routing Processes)
+# AR - IGP Troubleshooting Commands and IP Routing Processes
 # AR - NetworkAcademy.io SD-WAN: 01. Introduction (Why do we need it)
 # AR - NetworkAcademy.io SD-WAN: 01. Introduction (What is it)
 # AR - NetworkAcademy.io SD-WAN: 01. Introduction (How does it work)
