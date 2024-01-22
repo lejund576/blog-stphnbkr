@@ -80,7 +80,7 @@ Despite the slow start, I did manage to add the following to the completed items
 
 + Cisco U - Catalyst SD-WAN Upgrade 
 + Cisco U - SD-WAN Operation and Deployment 
-+ CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1 
++ Cisco Press - CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1 
 
 The Cisco U SD-WAN Operation and Deployment course was part of Cisco's RevUp to Recert series, allowing me to earn an additional 12 continuing education credits for free. There were five assisted labs; each one took approximately an hour to spin up and was running newer software than what I have in EVE-NG. The new GUI is cleaner and very similar to DNAC, ISE and Firepower (sorry, Secure Firewall) - which I like. 
 
