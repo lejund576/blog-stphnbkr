@@ -51,9 +51,9 @@ ________________________________________________________________________________
 | READING 
 ___________________________________________________________________________________________________
 # Developing IP Multicast Networks (Ch 06. PIM Dense Mode)
-# Developing IP Multicast Networks (Ch 07. PIM-DM Multicast Forwarding)
-# Developing IP Multicast Networks (Ch 07. PIM-DM Pruning)
-# Developing IP Multicast Networks (Ch 07. PIM-DM Asserts, Grafting, Scalability)
+# Developing IP Multicast Networks (Ch 06. PIM-DM Multicast Forwarding)
+# Developing IP Multicast Networks (Ch 06. PIM-DM Pruning)
+# Developing IP Multicast Networks (Ch 06. PIM-DM Asserts, Grafting, Scalability)
 # Developing IP Multicast Networks (Ch 07. PIM Sparse Mode)
 # Developing IP Multicast Networks (Ch 07. PIM-SM Explicit Join Model)
 # Developing IP Multicast Networks (Ch 07. PIM-SM Shared Trees)
