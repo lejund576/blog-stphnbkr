@@ -1,5 +1,5 @@
 +++
-title = "Weekly Update 03: CCIE"
+title = "Weekly Update 04: CCIE"
 date = "2024-01-29"
 author = "Steve"
 cover = ""
