@@ -33,20 +33,20 @@ ________________________________________________________________________________
 # Cisco U - SD-WAN Fundamentals: Overlay Routing
 # Cisco U - SD-WAN Fundamentals: Policies and QoS 
 # Cisco U - SD-WAN Fundamentals: Lab Recaps (5) and Post Assessment 
-# Labs - INE CCIE R&S ATC: Redistribution Case #1
-# Labs - INE CCIE R&S ATC: Redistribution Case #2
-# Labs - INE CCIE R&S ATC: Redistribution Case #3
+# INE CCIE R&S ATC: Redistribution Case #1
+# INE CCIE R&S ATC: Redistribution Case #2
+# INE CCIE R&S ATC: Redistribution Case #3
 
 
 | ACTIVE RECALL
 ___________________________________________________________________________________________________
-# AR - IGP Performance Routing (PfR)
-# AR - IGP Troubleshooting Complex Layer 3 Issues
-# AR - IGP Troubleshooting Process Methodology
-# AR - IGP Troubleshooting Commands and IP Routing Processes
-# AR - NetworkAcademy.io SD-WAN: 01. Introduction (Why do we need it)
-# AR - NetworkAcademy.io SD-WAN: 01. Introduction (What is it)
-# AR - NetworkAcademy.io SD-WAN: 01. Introduction (How does it work)
+# IGP Performance Routing (PfR)
+# IGP Troubleshooting Complex Layer 3 Issues
+# IGP Troubleshooting Process Methodology
+# IGP Troubleshooting Commands and IP Routing Processes
+# NetworkAcademy.io SD-WAN: 01. Introduction (Why do we need it)
+# NetworkAcademy.io SD-WAN: 01. Introduction (What is it)
+# NetworkAcademy.io SD-WAN: 01. Introduction (How does it work)
 
 
 | READING 
